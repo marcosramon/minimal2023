@@ -1,0 +1,62 @@
+{
+  "basics": {
+    "name": "Marcos Ramon",
+    "label": "Professor de Filosofia, Pesquisador",
+    "picture": "",
+    "email": "marcos.ferreira@ifb.edu.br",
+    "phone": "",
+    "website": "https://marcosramon.net",
+    "summary": "Professor de filosofia e pesquisador nas áreas de cibercultura, estética e tecnologia digital",
+    "location": {
+      "address": "SGAN 610",
+      "postalCode": "70830-450",
+      "city": "Brasília",
+      "countryCode": "BR",
+      "region": "Distrito Federal"
+    },
+    "profiles": [
+      {
+        "network": "Twitter",
+        "username": "mrtollens",
+        "url": "https://twitter.com/mrtollens"
+      },
+      {
+        "network": "Youtube",
+        "username": "Conexão Filosófica",
+        "url": "https://youtube.com/conexaofilosofica"
+      }
+    ]
+  },
+  "work": [
+    {
+      "company": "IFB",
+      "position": "Professor",
+      "website": "https://www.ifb.edu.br",
+      "startDate": "2010",
+      "endDate": "",
+      "summary": "Professor lecionando na Educação Básica, Cursos técnicos, Graduações e Mestrado",
+      "highlights": [
+        "Professor do Mestrado Profissional em Educação Profissional e Tecnológica.",
+        "Professor do Ensino Médio Integrado em Informática."
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "Universidade de Brasília",
+      "area": "Comunicação",
+      "studyType": "Doutorado",
+      "startDate": "2012",
+      "endDate": "2014",    
+    }
+  ],
+  "publications": [
+    {
+      "name": "",
+      "publisher": "",
+      "releaseDate": "",
+      "website": "",
+      "summary": ""
+    }
+  ],
+}
