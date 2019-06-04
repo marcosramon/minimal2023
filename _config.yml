@@ -303,7 +303,7 @@ defaults:
   # _ficcoes
   - scope:
       path: ""
-      type: ficcoes
+      type: portfolio
     values:
       layout: single
       author_profile: false
@@ -311,7 +311,7 @@ defaults:
   # _blog
    - scope:
        path: ""
-       type: blog
+       type: posts
      values:
        layout: single
        author_profile: false
