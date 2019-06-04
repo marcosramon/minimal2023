@@ -20,7 +20,7 @@ title                    : "Site Title"
 title_separator          : "-"
 name                     : "Marcos Ramon"
 description              : "An amazing website."
-url                      : "https://marcosramon.net/minimal"
+url                      : "https://marcosramon.net"
 baseurl                  : 
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
