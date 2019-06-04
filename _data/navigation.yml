@@ -1,12 +1,17 @@
 # main links
 main:
   - title: "Sobre"
-    url: https://marcosramon.net/sobre/
-  # - title: "About"
-  #   url: https://marcosramon.net/sobre
-  # - title: "Ficções"
-  #   url: /ficcoes/
-  # - title: "Blog"
-  #   url: /blog/
-  # - title: "Apoie"
-  #   url: /apoie/
+    url: /sobre/
+  - title: "Filosofia"
+    url: /filosofia/
+  - title: "Posts"
+    url: /year-archive/
+  - title: "Categorias"
+    url: /categories/
+  - title: "Tags"
+    url: /tags/
+  - title: "Pages"
+    url: /page-archive/
+  - title: "Orcid"
+    url: https://orcid.org/0000-0002-8720-8706
+
