@@ -5,7 +5,7 @@ excerpt: "Materiais sobre Filosofia no Ensino Médio"
 last_modified_at: 2019-06-04T15:15:09-04:00
 ---
 
-Textos e outros materiais sobre filosofia no ensino médio.
+Textos e outros materiais sobre Filosofia no Ensino Médio.
 
 ## Documentos importantes
 
