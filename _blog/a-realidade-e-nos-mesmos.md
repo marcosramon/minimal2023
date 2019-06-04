@@ -1,7 +1,15 @@
 ---
 title: "A realidade e nós mesmos"
 excerpt: "Quando pensamos sobre as coisas que nos determinam, imaginamos nossos gostos, impressões sobre arte, cultura, nossos trejeitos e manias."
+last_modified_at: 2019-05-18T16:27:01-05:00
 date: 2019-05-18
+published: true
+tags: 
+  - reflexão
+  - filosofia
+  - realidade
+categories:
+  - textos
 ---
 
 Quando pensamos sobre as coisas que nos determinam, imaginamos nossos gostos, impressões sobre arte, cultura, nossos trejeitos e manias. Mas essas são características externas, coisas que os outros conseguem observar em nós - ou coisas que acreditamos que podem ser percebidas por qualquer um, mas que só nós mesmos conseguimos identificar.
