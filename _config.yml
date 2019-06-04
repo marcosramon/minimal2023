@@ -21,17 +21,17 @@ title_separator          : "-"
 name                     : "Marcos Ramon"
 description              : "Filosofia, arte e cotidiano"
 url                      : "https://marcosramon.net"
-baseurl                  : "/minimal-mistakes"
-repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
+baseurl                  : "/teste"
+repository               : "marcosramon/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
 comments:
-  provider               : # false (default), "disqus", "discourse", "facebook", "staticman", "staticman_v2", "utterances", "custom"
+  provider               : "disqus"
   disqus:
-    shortname            : # https://help.disqus.com/customer/portal/articles/466208-what-s-a-shortname-
+    shortname            : mramon
   discourse:
     server               : # https://meta.discourse.org/t/embedding-discourse-comments-via-javascript/31963 , e.g.: meta.discourse.org
   facebook:
@@ -98,9 +98,9 @@ social:
 
 # Analytics
 analytics:
-  provider               : false # false (default), "google", "google-universal", "custom"
+  provider               : "google"
   google:
-    tracking_id          :
+    tracking_id          : UA-25904919-5
     anonymize_ip         : # true, false (default)
 
 
@@ -109,7 +109,7 @@ author:
   name             : "Marcos Ramon"
   avatar           : "/assets/images/toll-site.png"
   bio              : "Pesquisador na área de estética e cibercultura"
-  location         : "Somewhere"
+  location         : "Brasília"
   email            :
   links:
     - label: "Email"
@@ -117,7 +117,7 @@ author:
       url: mailto:contato@marcosramon.net
     - label: "Website"
       icon: "fas fa-fw fa-link"
-      # url: "https://your-website.com"
+      url: "https://marcosramon.net"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/mrtollens"
