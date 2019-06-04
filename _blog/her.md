@@ -1,16 +1,6 @@
 ---
 title: "Her"
 excerpt: "Uma distopia sobre a saudade de um mundo mais simples (que talvez nunca temnha existido)"
-header:
-  image: /assets/images/unsplash-gallery-image-1.jpg
-  teaser: assets/images/unsplash-gallery-image-1-th.jpg
-sidebar:
-  - title: "Role"
-    image: http://placehold.it/350x250
-    image_alt: "logo"
-    text: "Designer, Front-End Developer"
-  - title: "Responsibilities"
-    text: "Reuters try PR stupid commenters should isn't a business model"
 ---
 
 Faz um tempo já que eu queria escrever algo sobre o filme [Ela](https://www.imdb.com/title/tt1798709/) (<i>Her</i>, 2013, de Spike Jonze). De uma forma bem genérica dá pra dizer que o filme se trata de um cara que tem um relacionamento amoroso com um sistema operacional. Mas, por trás desse enredo extremista e absurdo, o filme aborda um cenário que já vivemos, de solidão, de apego aos objetos e falta de sentido nas relações humanas.
