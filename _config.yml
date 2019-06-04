@@ -19,8 +19,8 @@ locale                   : "pt-BR"
 title                    : "Site Title"
 title_separator          : "-"
 name                     : "Marcos Ramon"
-description              : "An amazing website."
-url                      : "https://marcosramon.github.io"
+description              : "Filosofia, arte e cotidiano"
+url                      : "https://marcosramon.net"
 baseurl                  : "/minimal-mistakes"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
@@ -83,7 +83,7 @@ naver_site_verification  :
 
 # Social Sharing
 twitter:
-  username               :
+  username               : 
 facebook:
   username               :
   app_id                 :
@@ -106,21 +106,21 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an amazing person."
+  name             : "Marcos Ramon"
+  avatar           : "/assets/images/toll-site.png"
+  bio              : "Pesquisador na área de estética e cibercultura"
   location         : "Somewhere"
   email            :
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      # url: mailto:your.name@email.com
+      url: mailto:contato@marcosramon.net
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      # url: "https://twitter.com/"
+      url: "https://twitter.com/mrtollens"
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
       # url: "https://facebook.com/"
@@ -136,7 +136,7 @@ footer:
   links:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      # url:
+      url: "https://twitter.com/mrtollens"
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
       # url:
