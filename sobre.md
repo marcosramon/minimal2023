@@ -1,6 +1,6 @@
 ---
 title: "Sobre"
-layout: about
+layout: page
 picture: /assets/images/toll-site.png
 ---
 
