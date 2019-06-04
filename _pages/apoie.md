@@ -11,11 +11,6 @@ Se você gosta dos meus textos e podcasts e quer me ajudar a continuar produzind
 
 Me siga nas redes sociais e compartilhe meus textos, vídeos e podcasts com outras pessoas.
 
-<a href="https://twitter.com/mrtollens" alt="@mrtollens" target="_blank"><span class="icon icon--twitter2">{% include icon-twitter2.svg %}</span></a>
-<a href="https://www.goodreads.com/author/show/16012578.Marcos_Ramon" alt="goodreads" target="_blank"><span class="icon icon--goodreads">{% include icon-goodreads.svg %}</span></a>
-<a href="https://flipboard.com/@marcosramon" alt="flipboard" target="_blank"><span class="icon icon--flipboard">{% include icon-flipboard.svg %}</span></a>
-<a href="http://youtube.com/conexaofilosofica" alt="conexão filosófica" target="_blank"><span class="icon icon--youtube2">{% include icon-youtube2.svg %}</span></a>
-<a href="https://www.twitch.tv/mrtollens" alt="twitch" target="_blank"><span class="icon icon--twitch">{% include icon-twitch.svg %}</span></a>
 
 ---
  
