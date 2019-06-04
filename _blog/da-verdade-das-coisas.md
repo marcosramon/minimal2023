@@ -1,5 +1,6 @@
 ---
 title: "Da verdade das coisas"
+excerpt: "Sobre aquilo que impomos aos outros"
 ---
 
 Ontem, enquanto estava no metrô voltando pra casa, comecei a fazer um exercício que já tinha feito algumas vezes (talvez inspirado em um filme, não tenho certeza): imaginar quem eram as pessoas que estavam perto de mim, o que faziam, suas profissões, *hobbies* e qualquer outra coisa que fosse importante pra elas.
