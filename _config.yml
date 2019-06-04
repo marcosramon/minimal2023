@@ -153,14 +153,14 @@ footer:
       icon: "fab fa-fw fa-instagram"
       # url:
 
-collections:
+# Collections
   blog:
     output: true
     permalink: /:collection/:path/
   ficcoes:
     output: true
     permalink: /:collection/:path/
-
+  
 # Reading Files
 include:
   - .htaccess
