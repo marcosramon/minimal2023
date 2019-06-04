@@ -31,7 +31,7 @@ words_per_minute         : 200
 comments:
   provider               : "disqus"
   disqus:
-    shortname            : mramon
+    shortname            : "mramon"
   discourse:
     server               : # https://meta.discourse.org/t/embedding-discourse-comments-via-javascript/31963 , e.g.: meta.discourse.org
   facebook:
@@ -98,17 +98,17 @@ social:
 
 # Analytics
 analytics:
-  provider               : "google"
+  provider               : "google-universal"
   google:
-    tracking_id          : UA-25904919-5
-    anonymize_ip         : # true, false (default)
+    tracking_id          : "UA-25904919-5"
+    anonymize_ip         : true
 
 
 # Site Author
 author:
   name             : "Marcos Ramon"
   avatar           : "/assets/images/toll-site.png"
-  bio              : "Pesquisador na área de estética e cibercultura"
+  bio              : "Professor de filosofia | Pesquisador na área de estética e cibercultura"
   location         : "Brasília"
   email            :
   links:
@@ -153,14 +153,7 @@ footer:
       icon: "fab fa-fw fa-instagram"
       # url:
 
-# Collections
-  blog:
-    output: true
-    permalink: /:collection/:path/
-  ficcoes:
-    output: true
-    permalink: /:collection/:path/
-  
+
 # Reading Files
 include:
   - .htaccess
@@ -218,6 +211,55 @@ kramdown:
   enable_coderay: false
 
 
+# Collections
+collections:
+  blog:
+    output: true
+    permalink: /:collection/:path/
+  ficcoes:
+    output: true
+    permalink: /:collection/:path/
+
+
+# Defaults
+defaults:
+  # _posts
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: single
+      author_profile: true
+      read_time: true
+      comments: true
+      share: true
+      related: true
+  # _pages
+  - scope:
+      path: "_pages"
+      type: pages
+    values:
+      layout: single
+      author_profile: true
+  # _ficcoes
+  - scope:
+      path: ""
+      type: ficcoes
+    values:
+      layout: single
+      author_profile: false
+      share: true
+  # _blog
+  - scope:
+      path: ""
+      type: blog
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comments: true
+
+
 # Sass/SCSS
 sass:
   sass_dir: _sass
@@ -228,7 +270,7 @@ sass:
 permalink: /:categories/:title/
 paginate: 5 # amount of posts to show
 paginate_path: /page:num/
-timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: America/Sao_Paulo # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 
 # Plugins (previously gems:)
@@ -285,34 +327,4 @@ compress_html:
   clippings: all
   ignore:
     envs: development
-
-
-# Defaults
-defaults:
-  # _posts
-  - scope:
-      path: ""
-      type: posts
-    values:
-      layout: single
-      author_profile: true
-      read_time: true
-      comments: # true
-      share: true
-      related: true
-  # _ficcoes
-  - scope:
-      path: ""
-      type: portfolio
-    values:
-      layout: single
-      author_profile: false
-      share: true
-  # _blog
-   - scope:
-       path: ""
-       type: posts
-     values:
-       layout: single
-       author_profile: false
-       share: true
+    
