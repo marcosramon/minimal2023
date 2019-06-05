@@ -8,7 +8,7 @@ categories:
 tags: 
   - Jogos
   - Nintendo
-  - Pok[émon
+  - Pokémon
   - Reflexão
 image: 
   path: /assets/images/ficcoes.jpg
