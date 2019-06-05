@@ -11,15 +11,11 @@ Se você gosta dos meus textos e podcasts e quer me ajudar a continuar produzind
 
 Me siga nas redes sociais e compartilhe meus textos, vídeos e podcasts com outras pessoas.
 
-<a href="https://twitter.com/mrtollens" alt="@mrtollens" target="_blank"><i class="fab fa-twitter"></i> @mrtollens</a>
-
-<a href="https://www.goodreads.com/author/show/16012578.Marcos_Ramon" alt="goodreads" target="_blank"><i class="fab fa-goodreads-g"></i> marcosramon</a>
-
-<a href="https://flipboard.com/@marcosramon" alt="flipboard" target="_blank"><i class="fab fa-flipboard"></i> marcosramon</a>
-
-<a href="http://youtube.com/conexaofilosofica" alt="conexão filosófica" target="_blank"><i class="fab fa-youtube"></i> Conexão Filosófica</a>
-
-<a href="https://www.twitch.tv/mrtollens" alt="twitch" target="_blank"><i class="fab fa-twitch"></i> mrtollens</a>
+ - <i class="fab fa-twitter"></i> <a href="https://twitter.com/mrtollens" alt="@mrtollens" target="_blank">@mrtollens</a>
+ - <i class="fab fa-goodreads-g"></i> <a href="https://www.goodreads.com/author/show/16012578.Marcos_Ramon" alt="goodreads" target="_blank">marcosramon</a>
+ - <i class="fab fa-flipboard"></i> <a href="https://flipboard.com/@marcosramon" alt="flipboard" target="_blank">marcosramon</a>
+ - <i class="fab fa-youtube"></i> <a href="http://youtube.com/conexaofilosofica" alt="conexão filosófica" target="_blank">Conexão Filosófica</a>
+ - <i class="fab fa-twitch"></i> <a href="https://www.twitch.tv/mrtollens" alt="twitch" target="_blank">mrtollens</a>
 
 ---
  
@@ -36,6 +32,6 @@ Compre um dos meus livros no site da Amazon e depois faça uma análise no [Good
 
 Se você comprar alguma coisa na [Amazon](https://www.amazon.com.br/?&_encoding=UTF8&tag=marcramo-20&linkCode=ur2&linkId=aad24eb81b50d91ca9706a1565e538a2&camp=1789&creative=9325) utilizando o meu link de associado, eu ganho uma pequena comissão. Eu também tenho uma lista de desejos, caso você queira comprar alguma coisa para mim. 
 
-<a href="https://www.amazon.com.br/?&_encoding=UTF8&tag=marcramo-20&linkCode=ur2&linkId=aad24eb81b50d91ca9706a1565e538a2&camp=1789&creative=9325" onclick="ga(&quot;send&quot;,&quot;event&quot;,&quot;link&quot;,&quot;click&quot;,&quot;Shop Amazon&quot;)" class="btn"><span class="icon icon--amazon">{% include icon-amazon.svg %}</span> Compre na Amazon </a> 
+<a href="https://www.amazon.com.br/?&_encoding=UTF8&tag=marcramo-20&linkCode=ur2&linkId=aad24eb81b50d91ca9706a1565e538a2&camp=1789&creative=9325" onclick="ga(&quot;send&quot;,&quot;event&quot;,&quot;link&quot;,&quot;click&quot;,&quot;Shop Amazon&quot;)" class="btn btn--primary"><i class="fab fa-amazon"></i> Compre na Amazon </a> 
 
-<a href="https://amzn.to/2DnqGW4" onclick="ga(&quot;send&quot;,&quot;event&quot;,&quot;link&quot;,&quot;click&quot;,&quot;Amazon Wish List&quot;)" class="btn"><span class="icon icon--amazon">{% include icon-amazon.svg %}</span> Minha lista de desejos</a>
+<a href="https://amzn.to/2DnqGW4" onclick="ga(&quot;send&quot;,&quot;event&quot;,&quot;link&quot;,&quot;click&quot;,&quot;Amazon Wish List&quot;)" class="btn btn--primary"><i class="fab fa-amazon"></i> Minha lista de desejos</a>
