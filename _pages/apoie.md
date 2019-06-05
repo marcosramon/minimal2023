@@ -15,7 +15,7 @@ Me siga nas redes sociais e compartilhe meus textos, vídeos e podcasts com outr
 
 <a href="https://www.goodreads.com/author/show/16012578.Marcos_Ramon" alt="goodreads" target="_blank"><i class="fab fa-goodreads-g"></i> marcosramon</a>
 
-<a href="https://flipboard.com/@marcosramon" alt="flipboard" target="_blank"><span class="icon icon--flipboard">{% include icon-flipboard.svg %}</span></a>
+<a href="https://flipboard.com/@marcosramon" alt="flipboard" target="_blank"><i class="fab fa-flipboard"></i> marcosramon</a>
 
 <a href="http://youtube.com/conexaofilosofica" alt="conexão filosófica" target="_blank"><i class="fab fa-youtube"></i> Conexão Filosófica</a>
 
