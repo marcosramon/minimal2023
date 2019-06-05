@@ -6,10 +6,6 @@ main:
     url: /filosofia/
   - title: "Ficções"
     url: /ficcoes/
-  - title: "Blog"
-    url: /blog/
   - title: "Apoie"
     url: /apoie/
-  - title: "Orcid"
-    url: https://orcid.org/0000-0002-8720-8706
-
+    
