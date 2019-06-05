@@ -3,7 +3,6 @@ title: Ficções
 layout: collection
 permalink: /ficcoes/
 collection: ficcoes
-entries_layout: grid
 actions:
   - label: "@PodcastFiccoes"
     icon: twitter
