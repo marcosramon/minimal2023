@@ -5,7 +5,7 @@ permalink: /ficcoes/
 collection: ficcoes
 ---
 
-<a href="https://twitter.com/PodcastFiccoes" class="btn btn--primary">@PodcastFiccoes</a>
+<a href="https://twitter.com/PodcastFiccoes" class="btn btn--primary"><i class="fab fa-twitter"></i> @PodcastFiccoes</a>
 
 Um podcast sobre narrativas filosóficas. A proposta é analisar os discursos filosóficos sobre o cotidiano como sendo construções, invenções, e não verdades.
 
