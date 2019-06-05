@@ -11,11 +11,15 @@ Se você gosta dos meus textos e podcasts e quer me ajudar a continuar produzind
 
 Me siga nas redes sociais e compartilhe meus textos, vídeos e podcasts com outras pessoas.
 
- - <i class="fab fa-twitter"></i> <a href="https://twitter.com/mrtollens" alt="@mrtollens" target="_blank">@mrtollens</a>
- - <i class="fab fa-goodreads-g"></i> <a href="https://www.goodreads.com/author/show/16012578.Marcos_Ramon" alt="goodreads" target="_blank">marcosramon</a>
- - <i class="fab fa-flipboard"></i> <a href="https://flipboard.com/@marcosramon" alt="flipboard" target="_blank">marcosramon</a>
- - <i class="fab fa-youtube"></i> <a href="http://youtube.com/conexaofilosofica" alt="conexão filosófica" target="_blank">Conexão Filosófica</a>
- - <i class="fab fa-twitch"></i> <a href="https://www.twitch.tv/mrtollens" alt="twitch" target="_blank">mrtollens</a>
+<a href="https://twitter.com/mrtollens" alt="@mrtollens" target="_blank" class="btn btn--primary"><i class="fab fa-twitter"></i> @mrtollens</a>
+ 
+<a href="https://www.goodreads.com/author/show/16012578.Marcos_Ramon" alt="goodreads" target="_blank" class="btn btn--primary"><i class="fab fa-goodreads-g"></i> marcosramon</a>
+
+<a href="https://flipboard.com/@marcosramon" alt="flipboard" target="_blank" class="btn btn--primary"><i class="fab fa-flipboard"></i> marcosramon</a>
+
+<a href="http://youtube.com/conexaofilosofica" alt="conexão filosófica" target="_blank" class="btn btn--primary"><i class="fab fa-youtube"></i> Conexão Filosófica</a>
+
+<a href="https://www.twitch.tv/mrtollens" alt="twitch" target="_blank" class="btn btn--primary"><i class="fab fa-twitch"></i> mrtollens</a>
 
 ---
  
