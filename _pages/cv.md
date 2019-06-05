@@ -7,9 +7,9 @@ Professor de filosofia e pesquisador nas áreas de cibercultura, estética e tec
 
 **Contato**
 
- - Email: marcos.ferreira@ifb.edu.br
+ - Email: <i class="far fa-envelope"></i> <a href="mailto:marcos.ferreira@ifb.edu.br">marcos.ferreira@ifb.edu.br</a>
  - Website: https://marcosramon.net
- - Twitter: mrtollens
+ - Twitter: <i class="fab fa-twitter"></i> [@mrtollens](https://twitter.com/mrtollens)
  - Youtube: Conexão Filosófica
 
 **Endereço profissional**
