@@ -19,8 +19,10 @@ SGAN 610. Brasília, Distrito Federal. 70830-450 BR
 **Trabalho**
 
 IFB, Professor (2010 — Atual)
- - Professor | Mestrado Profissional em Educação Profissional e Tecnológica.
- - Professor | Ensino Médio Integrado em Informática.
+
+Professor | Mestrado Profissional em Educação Profissional e Tecnológica.
+
+Professor | Ensino Médio Integrado em Informática.
 
 **Educação**
 
