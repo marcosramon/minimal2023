@@ -23,4 +23,4 @@ Jogar até dormindo?
 
 [Download do episódio em mp3](https://s3-us-west-2.amazonaws.com/anchor-audio-bank/production/2019-5-5/16445820-44100-2-ec154de8e538d.mp3)
  
-Se você gosta do [Ficções](https://marcosramon.net/ficcoes/) e quer me ajudar a continuar produzindo, você pode fazer isso pelo [padrim.com.br/ficcoes](https://www.padrim.com.br/ficcoes), pelo [picpay.me/ficcoes](https://app.picpay.com/user/ficcoes) ou acessando [marcosramon.net/apoie](https://marcosramon.net/apoie/) e vendo outras maneiras de contribuir.
+Se você gosta do [Ficções](https://marcosramon.net/ficcoes/) e quer me ajudar a continuar produzindo, acesse [marcosramon.net/apoie](https://marcosramon.net/apoie/) e veja como pode contribuir.
