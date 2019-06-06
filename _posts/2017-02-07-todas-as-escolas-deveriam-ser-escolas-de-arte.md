@@ -4,7 +4,7 @@ excerpt: "Por que deveríamos pensar como artistas?"
 last_modified_at: 2017-02-07T10:27:01-05:00
 date: 2017-02-07
 categories:
-  - Post
+  - blog
 tags: 
   - cotidiano
   - reflexão
