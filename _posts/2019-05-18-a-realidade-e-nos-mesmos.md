@@ -9,7 +9,7 @@ tags:
   - filosofia
   - realidade
 categories:
-  - Textos
+  - blog
 ---
 
 Quando pensamos sobre as coisas que nos determinam, imaginamos nossos gostos, impressões sobre arte, cultura, nossos trejeitos e manias. Mas essas são características externas, coisas que os outros conseguem observar em nós - ou coisas que acreditamos que podem ser percebidas por qualquer um, mas que só nós mesmos conseguimos identificar.
