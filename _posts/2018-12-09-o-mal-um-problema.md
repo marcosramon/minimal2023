@@ -8,7 +8,7 @@ tags:
   - filosofia
   - ética
 categories:
-  - textos
+  - blog
 ---
 
 Uma discussão recorrente dentro da filosofia é a reflexão sobre o problema do mal. Digo “problema”, mas é preciso pontuar que, para muitos autores, não se trata de algo a que se pode recorrer com uma solução. Logo, a percepção de “problema” talvez não caiba aqui. Thomas Hobbes, por exemplo, quando afirma que a natureza humana é má por natureza, reconhece que, não podendo lutar contra quem somos, podemos pelo menos nos redimir criando artifícios para combater a nossa natureza. No caso dele, a proposta é a ideia do contrato social. O contrato, nas bases de um combate à maldade inata que prevalece em cada um, se instaura como uma possibilidade de uma vida menos dolorosa. Afinal, se “o homem é o lobo do homem”, abrir mão da liberdade e dos instintos egoístas torna a vida possível, ainda que com algum nível de sofrimento e privação.
