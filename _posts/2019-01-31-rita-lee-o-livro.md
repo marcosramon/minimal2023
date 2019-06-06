@@ -7,7 +7,7 @@ tags:
   - literatura
   - música
 categories:
-  - textos
+  - blog
 ---
 
 A memória é uma coisa estranha. Quando tentamos lembrar de fatos recentes ou de coisas que deveríamos lembrar, ela nos prega uma peça e esquecemos de tudo. Por outro lado, várias coisas que lembramos são na verdade um conjunto de invenções, pequenas mentiras que contamos a nós mesmos, querendo nos convencer de que realmente foi assim.
