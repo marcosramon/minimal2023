@@ -3,13 +3,11 @@ title: "Frustração"
 excerpt: "É difícil lidar com a quebra de expectativas."
 last_modified_at: 2019-02-01T10:27:01-05:00
 date: 2019-02-01
-categories:
-  - Post
 tags: 
   - reflexão
   - comportamento
 categories:
-  - crônicas
+  - blog
 ---
 
 É difícil lidar com a quebra de expectativas. Quando queremos muito uma coisa e não conseguimos o que esperávamos, ou quando não queremos nada em específico mas nos vemos contrariados por qualquer motivo, costumamos ficar em uma situação de agonia e insatisfação que demora pra passar.
