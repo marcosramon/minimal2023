@@ -1,6 +1,16 @@
 ---
 title: "Todos os episódios"
 excerpt: "Muita coisa pra ouvir."
+header:
+  image: /assets/images/ficcoes.jpg
+  teaser: assets/images/ficcoes400x200.jpg
+sidebar:
+  - title: "Ficções"
+    image: assets/images/ficcoes400x200.jpg
+    image_alt: "ficções"
+    text: "um podcast sobre narrativas filosóficas"
+  - title: "Escute"
+    text: "[Spotify](https://open.spotify.com/show/1smphr2Sl3kHncMYB984rc?si=Ds7GV4oNQnGxsm-bxYvasA), [Google](https://podcasts.google.com/?feed=aHR0cHM6Ly9hbmNob3IuZm0vcy9hOWM4NWIwL3BvZGNhc3QvcnNz) ou [RSS](https://anchor.fm/s/a9c85b0/podcast/rss)"
 date: 2019-06-03
 collection: ficcoes
 categories:
@@ -8,10 +18,6 @@ categories:
 tags: 
   - Podcast
   - Cotidiano
-image: 
-  path: /assets/images/ficcoes.jpg
-  thumbnail: assets/images/ficcoes400x200.jpg
-  caption: "Podcast Ficções"
 ---
 
 <iframe src="https://anchor.fm/podcastficcoes/embed/episodes/Todos-os-episdios-e47vsu" height="102px" width="400px" frameborder="0" scrolling="no"></iframe>
