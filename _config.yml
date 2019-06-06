@@ -213,7 +213,7 @@ kramdown:
 
 # Collections
 collections:
-  blog:
+  livros:
     output: true
     permalink: /:collection/:path/
   ficcoes:
@@ -249,10 +249,10 @@ defaults:
       layout: single
       author_profile: false
       share: true
-  # _blog
+  # _livros
   - scope:
       path: ""
-      type: blog
+      type: livros
     values:
       layout: single
       author_profile: true
