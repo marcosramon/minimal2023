@@ -4,9 +4,8 @@ excerpt: "De acordo com Hegel, no caminho para a filosofia, existe o encontro co
 last_modified_at: 2019-04-20T10:27:01-05:00
 date: 2019-04-20
 published: false
-collection: blog
 categories:
-  - podcast
+  - blog
 tags: 
   - filosofia
   - Hegel
