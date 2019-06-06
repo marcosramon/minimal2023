@@ -6,7 +6,7 @@ date: 2019-04-04
 collection: blog
 published: true
 categories:
-  - Post
+  - blog
 tags: 
   - cotidiano
   - reflexão
