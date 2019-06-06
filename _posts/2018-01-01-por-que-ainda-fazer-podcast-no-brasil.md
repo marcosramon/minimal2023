@@ -9,7 +9,7 @@ tags:
   - reflexão
   - podcast
 categories:
-  - textos
+  - blog
 ---
 
 Em 2015 o meu podcast ainda estava bem no começo e um post do Thiago Miro no Mundo Podcast ajudou muito na chegada de muitos novos ouvintes. O post "[12 novos podcasts que valem a pena ouvir](https://mundopodcast.com.br/artigos/12-novos-podcasts-para-ouvir/)" permitiu que o Ficções saísse do anonimato quase total (eu mesmo não conhecia ninguém que ouvia o meu podcast até alguém comentar no site dizendo que veio por indicação desse texto) e me deu forças pra continuar produzindo podcast até hoje. Por esses dias tive a curiosidade de voltar até aquela lista para saber o que aconteceu com os outros podcasts indicados.
