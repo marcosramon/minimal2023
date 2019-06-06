@@ -19,7 +19,3 @@ Textos e outros materiais sobre Filosofia no Ensino Médio, produzidos por mim p
  - [Plano de Ensino](https://drive.google.com/open?id=1wpEIQJsmU5LQX8Au728j4tn-9qdVMCW0wz97-SbEfwo) (3º Ano / 2019)
  - [Cronograma de aulas e atividades](https://docs.google.com/document/d/1jEAr69zB5z6EqPxbv77mSu_YJclFvNPk2fAsdilH_qs/edit?usp=sharing) (3º Ano / 2019)
  - [Calendário IFB 2019](https://drive.google.com/file/d/1NIkkbP2CpPysL3pozXQn2aV_UCN-lCPT/view?usp=sharing)
- 
- ## Textos
- 
- *Em breve*
