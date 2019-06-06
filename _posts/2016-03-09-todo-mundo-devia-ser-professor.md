@@ -9,7 +9,7 @@ tags:
   - ensino
   - educação
 categories:
-  - crônicas
+  - blog
 ---
 
 O melhor de ser professor é se ver confrontado com a realidade a todo instante.
