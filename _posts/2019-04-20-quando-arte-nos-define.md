@@ -16,7 +16,9 @@ Claro, às vezes não gostamos das mesmas coisas, não apreciamos o gosto musica
 
 Esses dias vi no Twitter (o lugar em que os memes dominam o tempo das pessoas) muita gente compartilhando a seguinte mensagem:
 
-<img src="/assets/images/describe.jpg">
+<figure style="" class="align-center">
+  <img src="{{ site.url }}{{ site.baseurl }}/assets/images/describe.jpg" alt="">
+</figure>
 
 Entrei no jogo e [tentei me definir com três discos](https://twitter.com/mrtollens/status/1119402519103459328?s=19), sem muito critério, é verdade, exceto o fato de que são discos que ouvi muito, e ainda hoje voltam pra mim (agora, via Spotify).
 
