@@ -8,6 +8,7 @@ categories:
 tags: 
   - corpo
   - filosofia
+  - pesquisa
 ---
 
 Quando eu estava no Mestrado (UFMA, Cultura e Sociedade, 2010/2011) eu fiz uma disciplina chamada “Corpo e Sociedade” e nela nós lemos dois textos do sociólogo francês David Le Breton: “[Adeus ao corpo](https://amzn.to/2SDzJXQ)” e “[Sociologia do corpo](https://amzn.to/2QIonEY)”. Neles Le Breton discute a condição moderna do corpo e como nos relacionamos com os outros e com nós mesmos, diante das exigências da atualidade, da tecnociência e dos meios de comunicação.
