@@ -20,5 +20,5 @@ De qualquer forma, ao pensar sobre aquilo que eu sou, tenho dificuldade em me ob
 
 <figure style="width: 300px" class="align-center">
   <img src="{{ site.url }}{{ site.baseurl }}/assets/images/Weird_Trees_Mark_Bartkiw.jpg" alt="">
-  <figcaption><i>Weird Trees</i>, fotografia de <a href="http://www.markbartkiw.com/">Mark Bartkiw</a>.</figcaption>
+  <figcaption><i>Weird Trees</i>, fotografia de <a href="http://www.markbartkiw.com/">Mark Bartkiw</a></figcaption>
 </figure>
