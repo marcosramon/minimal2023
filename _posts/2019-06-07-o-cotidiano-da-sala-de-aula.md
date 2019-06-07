@@ -26,5 +26,5 @@ A vida é sempre um misto de conquistas e decepções. E, na maior parte do temp
 
 <figure style="" class="align-center">
   <img src="{{ site.url }}{{ site.baseurl }}/assets/images/reemtwaim.jpg" alt="">
-  <figcaption>Arte de <a href="https://www.instagram.com/reemtwaim/">Reem Twaim</a>.</figcaption>
+  <figcaption>Arte de <a href="https://www.instagram.com/reemtwaim/">Reem Twaim</a></figcaption>
 </figure>
