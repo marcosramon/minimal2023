@@ -19,5 +19,5 @@ Pode parecer desestimulante falar sobre a pouca importância de cada um de nós,
 
 <figure style="" class="align-center">
   <img src="{{ site.url }}{{ site.baseurl }}/assets/images/cyril-rolando-digital-illustrations-10.jpg" alt="">
-  <figcaption>*Ilustração de <a href="https://www.behance.net/aquasixio">Cyril Rolando*</a></figcaption>
+  <figcaption>Ilustração de <a href="https://www.behance.net/aquasixio">Cyril Rolando</a></figcaption>
 </figure>
