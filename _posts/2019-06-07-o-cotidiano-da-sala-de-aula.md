@@ -25,6 +25,6 @@ A vida é sempre um misto de conquistas e decepções. E, na maior parte do temp
 [^1]: Esse trabalho, tão cotidiano quanto a própria sala de aula, envolve planejamento, elaboração e correção de atividades, preenchimento de documentos (planos de ensino, planos de aula, mapas de nota, diários de sala de aula, relatórios de conselho de classe etc.), mas desconsidera atividades de pesquisa e extensão, que muitas vezes também são realizadas, mesmo com pouco tempo ou apoio da comunidade escolar.
 
 <figure style="" class="align-center">
-  <img src="{{ site.url }}{{ site.baseurl }}/assets/images/reemtawim.jpg" alt="">
+  <img src="{{ site.url }}{{ site.baseurl }}/assets/images/reemtwaim.jpg" alt="">
   <figcaption>Arte de <a href="https://www.instagram.com/reemtwaim/">Reem Twaim</a>.</figcaption>
 </figure>
