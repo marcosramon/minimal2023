@@ -4,7 +4,7 @@ excerpt: "O conflito diário de quem trabalha com educação"
 date: 2019-06-07
 published: true
 header:
-  overlay_color: "#ff8b94"
+  overlay_color: "#AD8359"
 tags: 
   - educação
   - cotidiano
