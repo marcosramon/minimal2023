@@ -4,7 +4,7 @@ excerpt: "Sobre a ideia de cultura como mercadoria"
 date: 2017-02-04
 published: true
 header:
-  image: /assets/images/abstrato2.jpg
+  overlay_image: /assets/images/abstrato2.jpg
 tags: 
   - sociedade
   - cultura
