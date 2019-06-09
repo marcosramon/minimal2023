@@ -4,7 +4,7 @@ excerpt: "Sobre a beleza da falta de coerência"
 date: 2014-11-26
 published: true
 header:
-  overlay_color: "#AD8359"
+  overlay_image: /assets/images/abstrato5.jpg
   og_image: /assets/images/chaingang.jpg
 tags: 
   - cotidiano
