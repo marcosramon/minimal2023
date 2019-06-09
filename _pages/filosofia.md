@@ -3,7 +3,7 @@ title: "Filosofia"
 permalink: /filosofia/
 excerpt: "Materiais sobre Filosofia no Ensino Médio"
 header:
-  overlay_color: "#d9534f"
+  image: /assets/images/stars.jpg
 last_modified_at: 2019-06-04T15:15:09-04:00
 ---
 
