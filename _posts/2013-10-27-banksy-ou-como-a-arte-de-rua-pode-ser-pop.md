@@ -5,14 +5,14 @@ date: 2013-10-27
 published: true
 header:
   overlay_image: /assets/images/abstrato3.jpg
-  og_image: /assets/images/banksy1.jpg
+  og_image: /assets/images/banksy01.jpg
 gallery:
-  - url: /assets/images/banksy1.jpg
-    image_path: /assets/images/banksy1.jpg
-  - url: /assets/images/banksy2.jpg
-    image_path: /assets/images/banksy2.jpg
-  - url: /assets/images/banksy3.jpg
-    image_path: /assets/images/banksy3.jpg
+  - url: /assets/images/banksy01.jpg
+    image_path: /assets/images/banksy01.jpg
+  - url: /assets/images/banksy02.jpg
+    image_path: /assets/images/banksy02.jpg
+  - url: /assets/images/banksy03.jpg
+    image_path: /assets/images/banksy03.jpg
 tags: 
   - arte
   - comportamento
