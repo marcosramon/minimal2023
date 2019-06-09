@@ -33,5 +33,5 @@ Não desmereço a arte clássica que está nos museus, mas a arte da rua está m
 
 <figure style="" class="align-center">
   <img src="{{ site.url }}{{ site.baseurl }}/assets/images/pompomgirl.jpg" alt="">
-  <figcaption>*Pom Pom Girl*, intervenção de <a href="http://www.sandrine-estrade-boulet.com/sandrine_boulet/pom_pom_girl.html">Sandrine Boulet</a></figcaption>
+  <figcaption><i>Pom Pom Girl</i>, intervenção de <a href="http://www.sandrine-estrade-boulet.com/sandrine_boulet/pom_pom_girl.html">Sandrine Boulet</a></figcaption>
 </figure>
