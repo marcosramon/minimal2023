@@ -1,5 +1,5 @@
 ---
-title: "Banksy ou como a arte de rua pode ser pop?"
+title: "Banksy ou: como a arte de rua pode ser pop?"
 excerpt: "A street art também tem seus ídolos e Banksy certamente é um deles. Banksy faz suas intervenções em toda Nova York, geralmente sem permissão dos donos do espaço"
 date: 2013-10-27
 published: true
