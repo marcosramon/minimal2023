@@ -1,5 +1,5 @@
 ---
-title: "O exkstencialismo e nós mesmos"
+title: "O existencialismo e nós mesmos"
 excerpt: "Quando a filosofia fala sobre nós"
 date: 2019-06-13
 published: true
