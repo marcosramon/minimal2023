@@ -2,12 +2,13 @@
 title: "O exkstencialismo e nós mesmos"
 excerpt: "Quando a filosofia fala sobre nós"
 date: 2019-06-13
-published: false
+published: true
 header:
-  overlay_image: /assets/images/abstrato3.jpg
-  og_image: /assets/images/EikoOjala.gif
+  overlay_image: /assets/images/abstrato1.jpg
+  og_image: /assets/images/791EBB12-6161-48DE-87AF-E374222C255C.jpeg
 tags: 
   - filosofia
+  - sociedade
   - ética
 categories:
   - blog
@@ -26,6 +27,5 @@ Muitas frases de Sartre como “nós somos o que fazemos do que fazem de nós”
 O existencialismo discute o absurdo da existência e sua popularidade se deve provavelmente ao fato de que percebemos esse absurdo em nossas próprias vidas. Isso, claro, sem menosprezar o talento de Jean-Paul Sartre, Albert Camus, Gabriel Marcel, Karl Jaspers e tantos outros que se alinharam ao existencialismo e defenderam a ideia de que, mesmo aceitando a condição conflituosa da existência, devemos viver a vida com responsabilidade e dignidade, com a autoconsciência de quem acredita que adquire uma essência apenas após o nascimento, dando a si mesmo um caminho que é único e, por isso mesmo, belo e pleno.  
 
 <figure style="" class="align-center">
-  <img src="{{ site.url }}{{ site.baseurl }}/assets/images/EikoOjala.gif" alt="">
-  <figcaption>Gif criado por <a href="https://www.behance.net/eiko">Eiko Ojala</a></figcaption>
+  <img src="{{ site.url }}{{ site.baseurl }}/assets/images/791EBB12-6161-48DE-87AF-E374222C255C.jpeg" alt="">
 </figure>
