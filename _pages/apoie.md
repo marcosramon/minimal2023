@@ -15,12 +15,8 @@ Me siga nas redes sociais e compartilhe meus textos, vídeos e podcasts com outr
  
 <a href="https://www.goodreads.com/author/show/16012578.Marcos_Ramon" alt="goodreads" target="_blank" class="btn btn--primary"><i class="fab fa-goodreads-g"></i> marcosramon</a>
 
-<a href="https://flipboard.com/@marcosramon" alt="flipboard" target="_blank" class="btn btn--primary"><i class="fab fa-flipboard"></i> marcosramon</a>
-
 <a href="http://youtube.com/conexaofilosofica" alt="conexão filosófica" target="_blank" class="btn btn--primary"><i class="fab fa-youtube"></i> Conexão Filosófica</a>
 
-<a href="https://www.twitch.tv/mrtollens" alt="twitch" target="_blank" class="btn btn--primary"><i class="fab fa-twitch"></i> mrtollens</a>
- 
 ## Compre um dos meus livros
 
 Compre um dos meus livros no site da Amazon e depois faça uma análise no [Goodreads](https://www.goodreads.com/author/show/16012578.Marcos_Ramon) ou [Skoob](https://www.skoob.com.br/descompasso-841935ed847109.html).
