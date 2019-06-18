@@ -1,6 +1,6 @@
 ---
 title: "A verdadeira história"
-excerpt: "Lendo um texto sobre o que de fato teria acontecido na noite em que Van Gogh cortou fora a própria orelha, fiquei pensando em como é frágil a própria noção de história que temos"
+excerpt: "Sobre a fragilidade do modo como vemos o passado"
 date: 2019-06-17
 published: true
 header:
