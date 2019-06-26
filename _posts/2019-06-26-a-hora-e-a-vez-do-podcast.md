@@ -5,7 +5,7 @@ date: 2019-06-26
 published: true
 header:
   overlay_color: "#49938e"
-  og_image: assets/images/podcasttoll.jpg
+  og_image: assets/images/tolis2.jpg
 tags: 
   - podcast
   - comportamento
@@ -35,5 +35,5 @@ Obrigado mesmo a você que me ouviu até aqui. Foi realmente muito animador sent
 [^2]: Por uma dessas coincidências bizarras que acabam acontecendo, comecei a ver uma discussão recente sobre produção de podcasts justamente agora que decidi publicar esse texto. Se você está por fora, o Cris Dias resumiu bem a questão [nesse texto](https://medium.com/@crisdias/por-que-podcast-brasileiro-%C3%A9-pior-que-os-americanos-3dd5cdd4658b){:target="_blank"}. Enfim, eu já tinha começado a escrever o que coloco aqui bem antes do Twitter ficar inundado por essa polêmica e me parece que esse não é o melhor momento para eu ser mais um falando sobre produção de podcasts no Brasil. Assim, ainda que eu mencione algumas questões mais gerais, é importante ratificar que a proposta aqui é falar sobre o *meu* envolvimento com o podcast, em um texto mais direcionado a quem escuta o Ficções. Qualquer generalização é só isso mesmo. Nada demais.
 
 <figure style="" class="align-center">
-  <img src="{{ site.url }}{{ site.baseurl }}assets/images/podcasttoll.jpg" alt="">
+  <img src="{{ site.url }}{{ site.baseurl }}assets/images/tolis2.jpg" alt="">
 </figure>
