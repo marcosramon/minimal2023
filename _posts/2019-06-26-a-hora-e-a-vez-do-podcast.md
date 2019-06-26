@@ -4,7 +4,7 @@ excerpt: "Sobre o crescimento dos podcasts (e o que acontece com o Ficções)"
 date: 2019-06-26
 published: true
 header:
-  overlay_color: "#c5c5c5"
+  overlay_color: "#49938e"
   og_image: assets/images/podcasttoll.jpg
 tags: 
   - podcast
