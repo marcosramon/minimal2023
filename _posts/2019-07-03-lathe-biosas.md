@@ -1,11 +1,11 @@
 ---
-title: "Lathe biosas"
-excerpt: "Sobre o crescimento dos podcasts (e o que acontece com o Ficções)"
+title: "*Lathe biosas*"
+excerpt: "A felicidade não está em ser visto por todo mundo"
 date: 2019-07-03
-published: false
+published: true
 header:
   overlay_color: "#c16ae7"
-  og_image: assets/images/ipe.jpg
+  og_image: assets/images/A02DB45A-5A04-4A47-AB8B-48B5C12D3F0F.png
 tags: 
   - filosofia
   - helenismo
@@ -28,5 +28,5 @@ Epicuro, o filósofo helenista que mais admiro (ainda que eu me considere um tan
 [ˆ1]: Sim, há o caso de Diógenes, o cão, aquele filósofo que era conhecido como um Sócrates louco e que pregava que deveríamos buscar a vida natural no seu limite. Essa doutrina, conhecida em sua época como *cinismo*, não representa o todo da filosofia helenística, e certamente destoa do essencial no pensamento de Epicuro.
 
 <figure style="" class="align-center">
-  <img src="{{ site.url }}{{ site.baseurl }}/assets/images/ipe.jpg" alt="">
+  <img src="{{ site.url }}{{ site.baseurl }}/assets/images/A02DB45A-5A04-4A47-AB8B-48B5C12D3F0F.png" alt="">
 </figure>
