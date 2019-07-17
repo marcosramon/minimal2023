@@ -1,6 +1,6 @@
 ---
 title: "Viver de arte"
-excerpt: "Nós inventamos os problemas e depois fingimos para nós mesmos que esses empecilhos são uma condição inerente à vida"
+excerpt: "Sobre Andy Warhol, arte e dinheiro"
 date: 2018-09-13
 published: false
 header:
