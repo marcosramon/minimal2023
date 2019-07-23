@@ -15,7 +15,7 @@ categories:
   - podcast
 tags: 
   - Cotidiano
- ---
+---
 
 <iframe src="https://anchor.fm/podcastficcoes/embed/episodes/Quem-pode-mudar-o-mundo-e4ahcv" height="102px" width="400px" frameborder="0" scrolling="no"></iframe>
 Nós inventamos os problemas e depois fingimos para nós mesmos que esses empecilhos são uma condição inerente à vida: [https://marcosramon.net/blog/quem-pode-mudar-o-mundo/](https://marcosramon.net/blog/quem-pode-mudar-o-mundo/)
