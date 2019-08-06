@@ -7,7 +7,7 @@ last_modified_at: 2019-08-06T15:15:09-04:00
 
 ## Livros publicados
 
-Tenho dois livros autopublicados. Eles estão disponíveis, em ebook, no site da Amazon. Se você ler faça uma análise no [Goodreads](https://www.goodreads.com/author/show/16012578.Marcos_Ramon) ou [Skoob](https://www.skoob.com.br/descompasso-841935ed847109.html). =)
+Tenho dois livros autopublicados. Eles estão disponíveis, em ebook, no site da Amazon. Se você ler, faça uma análise no [Goodreads](https://www.goodreads.com/author/show/16012578.Marcos_Ramon) ou [Skoob](https://www.skoob.com.br/descompasso-841935ed847109.html). =)
 
  - [A estética da angústia: uma aproximação entre Schopenhauer e os Peanuts](https://amzn.to/2XAkrWF)
  - [Descompasso](https://amzn.to/2XvjDlH)  
