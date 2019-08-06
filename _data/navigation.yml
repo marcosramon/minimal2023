@@ -2,10 +2,8 @@
 main:
   - title: "Sobre"
     url: /sobre/
-  - title: "Filosofia"
-    url: /filosofia/
   - title: "Ficções"
     url: /ficcoes/
-  - title: "Apoie"
-    url: /apoie/
+  - title: "Livros"
+    url: /livros/
     
