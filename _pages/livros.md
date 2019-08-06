@@ -14,8 +14,8 @@ Tenho dois livros autopublicados. Eles estão disponíveis, em ebook, no site da
  
 ## Capítulos de livro
 
- - Cristiane Herres Terraza & Marcos Ramon Gomes Ferreira: "[Escola e experiência estética: uma abordagem da estética e da arte a partir do Iluminismo](http://congressomateria.fba.ul.pt/rede/2018_rede_02_10_Terraza.pdf)", In: QUEIROZ, João Paulo; OLIVEIRA, Ronaldo(Org.). Os Riscos da Arte: formação e mediaçãp. Lisboa: Centro de Investigação e Estudos em Belas-Artes, 2018. 
- - Dayane Augusta da Silva, Glauco Vaz Feijó, Juliana Ferreira Leite & Marcos Ramon Gomes Ferreira: Reflexões sobre a implantação do curso técnico em Eventos Integrado ao Ensino Médio no IFB, In: ARAÚJO, Adilson Cesar; SILVA, Cláudio Nei Nascimento da (Orgs.). [Ensino Médio Integrado no Brasil: fundamentos, práticas e desafios](http://revistaeixo.ifb.edu.br/index.php/editoraifb/issue/view/81). Brasília: Editora IFB, 2017.
+ - Cristiane Herres Terraza & Marcos Ramon Gomes Ferreira: *"[Escola e experiência estética: uma abordagem da estética e da arte a partir do Iluminismo](http://congressomateria.fba.ul.pt/rede/2018_rede_02_10_Terraza.pdf)"*, In: QUEIROZ, João Paulo; OLIVEIRA, Ronaldo(Org.). **Os Riscos da Arte: formação e mediação**. Lisboa: Centro de Investigação e Estudos em Belas-Artes, 2018. 
+ - Dayane Augusta da Silva, Glauco Vaz Feijó, Juliana Ferreira Leite & Marcos Ramon Gomes Ferreira: *Reflexões sobre a implantação do curso técnico em Eventos Integrado ao Ensino Médio no IFB*, In: ARAÚJO, Adilson Cesar; SILVA, Cláudio Nei Nascimento da (Orgs.). **[Ensino Médio Integrado no Brasil: fundamentos, práticas e desafios](http://revistaeixo.ifb.edu.br/index.php/editoraifb/issue/view/81)**. Brasília: Editora IFB, 2017.
  
 ## Livros em processo
 
