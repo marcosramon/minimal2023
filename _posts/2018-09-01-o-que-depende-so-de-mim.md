@@ -18,6 +18,7 @@ E eu não quero muito - mas a gente sempre acha que nosso querer é pequeno,
 
 Ninguém escapa da tentação de acreditar no destino e esperar por uma reviravolta que resolva tudo o que a gente quer de forma mágica. Mas o destino não existe e a solução fantástica não vai acontecer. O jeito, então, é lutar contra o sonho para se acostumar a viver, só viver.<figure style="" class="align-center">
 
-<img src="{{ site.url }}{{ site.baseurl }}/assets/images/yan.gif" alt="">
+<figure>
+  <img src="{{ site.url }}{{ site.baseurl }}/assets/images/yan.gif" alt="">
   <figcaption>Ilustração de <a href="https://www.yandanwong.com/">Yan</a></figcaption>
 </figure>
