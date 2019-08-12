@@ -2,10 +2,10 @@
 title: "O declínio da experiência e a importância da crítica"
 excerpt: "Quando perdemos a capacidade de ler a realidade"
 date: 2019-08-12
-published: false
+published: true
 header:
-  overlay_color: "#f6c366"
-  og_image: assets/images/recomeco.PNG
+  overlay_image: /assets/images/abstrato3.jpg
+  og_image: assets/images/benjamin.jpg
 tags: 
   - filosofia
   - história
@@ -26,5 +26,5 @@ A arte, por meio de sua condição alegórica, reflete mais do que o passado [ˆ
 
 <figure style="" class="align-center">
   <img src="{{ site.url }}{{ site.baseurl }}/assets/images/benjamin.jpg" alt="">
-<figcaption>*Foto por Gisèle Freund (Walter Benjamin na Biblioteca Nacional de Paris, 1937)*<figcaption>
+  <figcaption>*Foto por Gisèle Freund (Walter Benjamin na Biblioteca Nacional de Paris, 1937)*</figcaption>
 </figure>
