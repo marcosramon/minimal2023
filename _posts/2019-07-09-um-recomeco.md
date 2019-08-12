@@ -1,3 +1,4 @@
+---
 title: "Um recomeço"
 excerpt: "Melhor é aceitar a limitação que nos cerca"
 date: 2019-07-19
