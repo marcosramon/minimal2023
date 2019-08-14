@@ -4,7 +4,7 @@ excerpt: "Sobre Andy Warhol, arte e dinheiro"
 date: 2018-09-13
 published: true
 header:
-  overlay_image: /assets/images/abstrato1.jpg
+  overlay_image: /assets/images/abstrato7.jpg
   og_image: /assets/images/viverdearte.jpeg
 tags: 
   - arte
