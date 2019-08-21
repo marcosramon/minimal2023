@@ -3,9 +3,7 @@ title: "O que depende só de mim"
 excerpt: "Quando penso no tempo que eu passo esperando que as coisas aconteçam"
 date: 2018-09-01
 published: true
-header:
-  overlay_image: /assets/images/abstrato1.jpg
-  og_image: assets/images/yan.gif
+og_image: assets/images/yan.gif
 tags: 
   - cotidiano
   - reflexão
