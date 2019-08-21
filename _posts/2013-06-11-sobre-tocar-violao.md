@@ -3,8 +3,6 @@ title: "Sobre tocar violão"
 excerpt: "Recentemente compramos um violão"
 date: 2013-06-11
 published: true
-header:
-  overlay_image: /assets/images/abstrato2.jpg
 tags: 
   - cotidiano
 categories:
