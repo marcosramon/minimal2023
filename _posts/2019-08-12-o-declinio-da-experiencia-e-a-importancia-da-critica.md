@@ -3,9 +3,7 @@ title: "O declínio da experiência e a importância da crítica"
 excerpt: "Quando perdemos a capacidade de ler a realidade"
 date: 2019-08-12
 published: true
-header:
-  overlay_image: /assets/images/abstrato3.jpg
-  og_image: assets/images/benjamin.jpg
+og_image: assets/images/benjamin.jpg
 tags: 
   - filosofia
   - história
