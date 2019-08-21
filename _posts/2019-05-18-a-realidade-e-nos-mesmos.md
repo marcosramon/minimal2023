@@ -4,6 +4,7 @@ excerpt: "Quando pensamos sobre as coisas que nos determinam, imaginamos nossos 
 last_modified_at: 2019-05-18T16:27:01-05:00
 date: 2019-05-18
 published: true
+og_image: assets/images/Weird_Trees_Mark_Bartkiw.jpg
 tags: 
   - reflexão
   - filosofia
