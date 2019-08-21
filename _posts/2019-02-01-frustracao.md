@@ -3,6 +3,7 @@ title: "Frustração"
 excerpt: "É difícil lidar com a quebra de expectativas."
 last_modified_at: 2019-02-01T10:27:01-05:00
 date: 2019-02-01
+og_image: assets/images/frustração.jpg
 tags: 
   - reflexão
   - comportamento
