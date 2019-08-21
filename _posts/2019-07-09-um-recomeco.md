@@ -3,9 +3,7 @@ title: "Um recomeço"
 excerpt: "Melhor é aceitar a limitação que nos cerca"
 date: 2019-07-19
 published: true
-header:
-  overlay_image: assets/images/abstrato2.jpg
-  og_image: assets/images/recomeco.PNG
+og_image: assets/images/recomeco.PNG
 tags: 
   - cotidiano
   - comportamento
