@@ -3,8 +3,7 @@ title: "Da verdade das coisas"
 excerpt: "Quando impomos aos outros nosso jeito de ver o mundo."
 date: 2019-06-04
 published: true
-header:
-  overlay_image: /assets/images/abstrato1.jpg
+og_image: /assets/images/gato.jpg
 tags: 
   - verdade
   - cotidiano
