@@ -3,6 +3,7 @@ title: "Por que ainda fazer podcast no Brasil?"
 excerpt: "Ainda existem motivos pra isso."
 last_modified_at: 2018-01-01T10:27:01-05:00
 date: 2018-01-01
+og_image: assets/images/podcast.png
 categories:
   - Post
 tags: 
