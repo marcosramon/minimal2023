@@ -3,6 +3,7 @@ title: "Todas as escolas deveriam ser escolas de arte"
 excerpt: "Por que deveríamos pensar como artistas?"
 last_modified_at: 2017-02-07T10:27:01-05:00
 date: 2017-02-07
+og_image: assets/images/escolas-de-arte.jpeg
 categories:
   - blog
 tags: 
