@@ -3,9 +3,7 @@ title: "Quem pode mudar o mundo?"
 excerpt: "Nós inventamos os problemas e depois fingimos para nós mesmos que esses empecilhos são uma condição inerente à vida"
 date: 2019-06-11
 published: true
-header:
-  overlay_image: /assets/images/abstrato3.jpg
-  og_image: /assets/images/EikoOjala.gif
+og_image: /assets/images/EikoOjala.gif
 tags: 
   - cotidiano
   - comportamento
