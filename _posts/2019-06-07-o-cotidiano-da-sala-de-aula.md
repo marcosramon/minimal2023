@@ -3,6 +3,7 @@ title: "O cotidiano da sala de aula"
 excerpt: "O conflito diário de quem trabalha com educação"
 date: 2019-06-07
 published: true
+og_image: assets/images/reemtwaim.jpg
 tags: 
   - educação
   - cotidiano
