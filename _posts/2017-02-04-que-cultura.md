@@ -3,8 +3,7 @@ title: "Que cultura?"
 excerpt: "Sobre a ideia de cultura como mercadoria"
 date: 2017-02-04
 published: true
-header:
-  overlay_image: /assets/images/abstrato2.jpg
+og_image: assets/images/renascimento.jpg
 tags: 
   - sociedade
   - cultura
