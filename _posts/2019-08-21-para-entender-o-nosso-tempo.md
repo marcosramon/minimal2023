@@ -3,9 +3,7 @@ title: "Para entender o nosso tempo"
 excerpt: "Um mundo cheio de generalizações"
 date: 2019-08-21
 published: true
-header:
-  overlay_color: "#79a1d8"
-  og_image: assets/images/virginia.png
+og_image: assets/images/virginia.png
 tags: 
   - ciência
   - conhecimento
