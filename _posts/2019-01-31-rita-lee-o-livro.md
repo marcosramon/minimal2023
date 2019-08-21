@@ -3,6 +3,7 @@ title: "Rita Lee (o livro)"
 excerpt: "A memória é uma coisa estranha. Quando tentamos lembrar de fatos recentes ou de coisas que deveríamos lembrar, ela nos prega uma peça e esquecemos de tudo."
 last_modified_at: 2019-01-31T10:27:01-05:00
 date: 2019-01-31
+og_image: assets/images/rita-lee.jpeg
 tags: 
   - literatura
   - música
