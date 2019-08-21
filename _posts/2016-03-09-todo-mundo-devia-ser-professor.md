@@ -3,6 +3,7 @@ title: "Todo mundo devia ser professor"
 excerpt: "O melhor de ser professor é se ver confrontado com a realidade a todo instante."
 last_modified_at: 2016-03-09T10:27:01-05:00
 date: 2016-03-09
+og_image: assets/images/oska.png
 tags: 
   - reflexão
   - comportamento
