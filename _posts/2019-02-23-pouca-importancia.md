@@ -4,6 +4,7 @@ excerpt: "Em muitos momentos de nossas vidas acabamos duvidando de que as coisas
 last_modified_at: 2019-02-23T10:27:01-05:00
 date: 2019-02-23
 published: true
+og_image: assets/images/cyril-rolando-digital-illustrations-10.jpg
 tags: 
   - reflexão
   - individualidade
