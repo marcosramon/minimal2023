@@ -4,6 +4,7 @@ excerpt: "Existe uma separação muito clara, para cada de um nós, entre o que 
 last_modified_at: 2019-04-04T10:27:01-05:00
 date: 2019-04-04
 collection: blog
+og_image: assets/images/James-Lipnickas-08.jpg
 published: true
 categories:
   - blog
