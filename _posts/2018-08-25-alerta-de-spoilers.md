@@ -3,9 +3,7 @@ title: "Alerta de spoilers"
 excerpt: "Quem quer saber o final da história?"
 date: 2018-08-25
 published: true
-header:
-  overlay_color: "#5DBCD2"
-  og_image: assets/images/alerta.png
+og_image: assets/images/alerta.png
 tags: 
   - cotidiano
   - literatura
