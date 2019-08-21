@@ -3,9 +3,7 @@ title: "Vivendo com nossas contradições"
 excerpt: "Sobre a beleza da falta de coerência"
 date: 2014-11-26
 published: true
-header:
-  overlay_image: /assets/images/abstrato5.jpg
-  og_image: /assets/images/chaingang.jpg
+og_image: /assets/images/chaingang.jpg
 tags: 
   - cotidiano
   - comportamento
