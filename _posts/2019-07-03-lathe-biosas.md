@@ -3,9 +3,7 @@ title: "*Lathe biosas*"
 excerpt: "A felicidade não está em ser visto por todo mundo"
 date: 2019-07-03
 published: true
-header:
-  overlay_color: "#c16ae7"
-  og_image: assets/images/A02DB45A-5A04-4A47-AB8B-48B5C12D3F0F.png
+og_image: assets/images/A02DB45A-5A04-4A47-AB8B-48B5C12D3F0F.png
 tags: 
   - filosofia
   - helenismo
