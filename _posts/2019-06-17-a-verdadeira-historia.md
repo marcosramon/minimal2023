@@ -3,9 +3,7 @@ title: "A verdadeira história"
 excerpt: "Sobre a fragilidade do modo como vemos o passado"
 date: 2019-06-17
 published: true
-header:
-  overlay_color: "#217166"
-  og_image: /assets/images/vangogh.jpg
+og_image: /assets/images/vangogh.jpg
 tags: 
   - arte
   - comportamento
