@@ -12,7 +12,7 @@ header:
       url: "https://marcosramon.net/blog"
 excerpt: ""
 intro: 
-  - excerpt: 'Sou professor de filosofia e pesquisador nas áreas de estética e cibercultura. Escrevo sobre jogos no [Nintendo Blast](https://www.google.com/search?safe=active&client=firefox-b-d&ei=Y9VmXbr8NMqy5OUP49u5mAk&q=nintendo+blast%2Bmarcos+ramon&oq=nintendo+blast%2Bmarcos+ramon&gs_l=psy-ab.3...6696.7125..7728...0.0..0.131.261.0j2......0....1..gws-wiz.......35i304i39.Oji19PthDQc&ved=0ahUKEwj6uczspabkAhVKGbkGHeNtDpMQ4dUDCAo&uact=5), produzo podcasts e escrevo sobre arte, filosofia e tecnologia'
+  - excerpt: 'Sou professor de filosofia e pesquisador nas áreas de estética e cibercultura. Escrevo sobre jogos no [Nintendo Blast](https://www.google.com/search?safe=active&client=firefox-b-d&ei=Y9VmXbr8NMqy5OUP49u5mAk&q=nintendo+blast%2Bmarcos+ramon&oq=nintendo+blast%2Bmarcos+ramon&gs_l=psy-ab.3...6696.7125..7728...0.0..0.131.261.0j2......0....1..gws-wiz.......35i304i39.Oji19PthDQc&ved=0ahUKEwj6uczspabkAhVKGbkGHeNtDpMQ4dUDCAo&uact=5), produzo podcasts e escrevo sobre arte, filosofia e tecnologia. [Lattes](http://lattes.cnpq.br/9538072103558772) | [Orcid](https://orcid.org/0000-0002-8720-8706) | [Twitter](https://twitter.com/mrtollens)'
 feature_row:
   - image_path: assets/images/ficcoes.jpg
     alt: ""
