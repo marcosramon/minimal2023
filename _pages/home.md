@@ -8,8 +8,8 @@ header:
   overlay_filter: "0.5"
   overlay_image: /assets/images/gephi.png
   actions:
-    - label: "Blog"
-      url: "https://marcosramon.net/blog"
+    - label: "Sobre"
+      url: "https://marcosramon.net/sobre"
 excerpt: ""
 intro: 
   - excerpt: 'Sou professor de filosofia e pesquisador nas áreas de estética e cibercultura. Escrevo sobre jogos no [Nintendo Blast](https://www.google.com/search?safe=active&client=firefox-b-d&ei=Y9VmXbr8NMqy5OUP49u5mAk&q=nintendo+blast%2Bmarcos+ramon&oq=nintendo+blast%2Bmarcos+ramon&gs_l=psy-ab.3...6696.7125..7728...0.0..0.131.261.0j2......0....1..gws-wiz.......35i304i39.Oji19PthDQc&ved=0ahUKEwj6uczspabkAhVKGbkGHeNtDpMQ4dUDCAo&uact=5), produzo podcasts e escrevo sobre arte, filosofia e tecnologia.'
