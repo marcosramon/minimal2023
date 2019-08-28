@@ -249,6 +249,7 @@ defaults:
       layout: single
       author_profile: false
       share: true
+      comments: true
   # _livros
   - scope:
       path: ""
