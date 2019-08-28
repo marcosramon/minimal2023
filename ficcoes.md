@@ -2,6 +2,7 @@
 title: Ficções
 layout: collection
 permalink: /ficcoes/
+sort_order: reverse
 collection: ficcoes
 ---
 
