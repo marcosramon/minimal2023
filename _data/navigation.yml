@@ -2,8 +2,6 @@
 main:
   - title: "Sobre"
     url: /sobre/
-  - title: "Ficções"
-    url: /ficcoes/
   - title: "Livros"
     url: /livros/
     
