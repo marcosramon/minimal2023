@@ -250,7 +250,7 @@ defaults:
       type: ficcoes
     values:
       layout: single
-      sort_order: reverse
+      sort_order: forward
       author_profile: false
       share: true
       comments: true
