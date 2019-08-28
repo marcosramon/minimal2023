@@ -219,6 +219,9 @@ collections:
   ficcoes:
     output: true
     permalink: /:collection/:path/
+  blog:
+    output: true
+    permalink: /:collection/:path/
 
 
 # Defaults
@@ -228,7 +231,7 @@ defaults:
       path: ""
       type: posts
     values:
-      layout: splash
+      layout: single
       author_profile: true
       read_time: true
       comments: true
@@ -248,6 +251,15 @@ defaults:
     values:
       layout: single
       author_profile: false
+      share: true
+      comments: true
+  # _blog
+  - scope:
+      path: ""
+      type: blog
+    values:
+      layout: single
+      author_profile: true
       share: true
       comments: true
   # _livros
