@@ -2,7 +2,7 @@
 permalink: /sobre/
 title: "Sobre"
 excerpt: "Marcos Ramon | Professor, pesquisador e músico"
-last_modified_at: 2019-06-04T15:15:09-04:00
+last_modified_at: 2019-08-29T15:15:09-04:00
 toc: false
 ---
 
