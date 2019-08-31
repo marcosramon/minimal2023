@@ -1,9 +1,8 @@
 ---
 title: Blog
-layout: collection
+layout: posts
 permalink: /blog/
-published: false
-collection: blog
+author_profile: true
 ---
 
 <a href="https://twitter.com/PodcastFiccoes" class="btn btn--primary"><i class="fab fa-twitter"></i> @mrtollens</a>
