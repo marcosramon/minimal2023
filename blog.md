@@ -2,7 +2,7 @@
 title: Blog
 layout: collection
 permalink: /blog/
-sort_order: reverse
+published: false
 collection: blog
 ---
 
