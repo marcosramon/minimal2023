@@ -25,7 +25,7 @@ feature_row:
     alt: ""
     title: "Blog"
     excerpt: "Textos sobre arte, filosofia, educação e tecnologia"
-    url: "https://marcosramon.net/categories/#blog"
+    url: "https://marcosramon.net/blog"
     btn_label: "Leia"
     btn_class: "btn--primary"
   - image_path: assets/images/descompasso-sp.png
