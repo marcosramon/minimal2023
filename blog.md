@@ -2,6 +2,8 @@
 title: Blog
 layout: collection
 permalink: /blog/
+entries_layout: grid
+classes: wide
 collection: blog
 ---
 
