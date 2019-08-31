@@ -2,7 +2,6 @@
 title: Blog
 layout: collection
 permalink: /blog/
-sort_by: title
 collection: blog
 ---
 
