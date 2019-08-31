@@ -222,7 +222,6 @@ collections:
   blog:
     output: true
     permalink: /:collection/:path/
-    sort_order: reverse
 
 
 # Defaults
