@@ -213,13 +213,7 @@ kramdown:
 
 # Collections
 collections:
-  livros:
-    output: true
-    permalink: /:collection/:path/
   ficcoes:
-    output: true
-    permalink: /:collection/:path/
-  blog:
     output: true
     permalink: /:collection/:path/
 
