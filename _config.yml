@@ -257,6 +257,7 @@ defaults:
       author_profile: true
       share: true
       comments: true
+      related: true
   # _livros
   - scope:
       path: ""
@@ -277,7 +278,7 @@ sass:
 # Outputting
 permalink: /:categories/:title/
 paginate: 10 # amount of posts to show
-paginate_path: /blog/page:num
+paginate_path: /page:num
 timezone: America/Sao_Paulo # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 
