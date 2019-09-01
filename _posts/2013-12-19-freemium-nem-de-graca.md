@@ -1,9 +1,11 @@
 ---
-title: Freemium? Nem de graça.
-description: "A praga do modelo freemium se espalha pelo mundo"
-published: true
-tags: [tecnologia]
-header-img: "/img/abstrato6.jpg"
+title: "Freemium? Nem de graça."
+excerpt: "A praga do modelo freemium se espalha pelo mundo"
+tags: 
+  - tecnologia
+  - jogos
+categories:
+  - blog
 date: 2013-12-19
 ---
 
