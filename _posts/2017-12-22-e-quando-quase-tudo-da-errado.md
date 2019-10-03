@@ -18,7 +18,7 @@ Sei que falando assim fica parecendo que a gente consegue fazer dos problemas um
 
 As coisas que precisam passar vão passar, mas outros dramas e entraves ainda vão aparecer. Viver é isso, insistir e insistir. Mesmo que o tempo passe e tudo pareça sem sentido.
 
-<figure style="width: 400px" class="align-left">
+<figure style="width: 400px" class="align-center">
   <img src="{{ site.url }}{{ site.baseurl }}/assets/images/bauchau.gif" alt="">
   <figcaption>Gif criado por <a href="http://www.benbauchau.com/">Ben Bauchau</a>.</figcaption>
 </figure> 
