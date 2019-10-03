@@ -20,5 +20,5 @@ As coisas que precisam passar v√£o passar, mas outros dramas e entraves ainda v√
 
 <figure style="width: 400px" class="align-left">
   <img src="{{ site.url }}{{ site.baseurl }}/assets/images/bauchau.gif" alt="">
-  <figcaption>Gif criado por [Ben Bauchau](http://www.benbauchau.com/)</figcaption>
+  <figcaption>Gif criado por <a href="http://www.benbauchau.com/">Ben Bauchau</a>.</figcaption>
 </figure> 
