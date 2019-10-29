@@ -1,6 +1,6 @@
 ---
 title: "A imaginação"
-excerpt: "Somos melhor definidos pela nossa capacidade de raciocinar ou de imaginar?
+excerpt: "Somos melhor definidos pela nossa capacidade de raciocinar ou de imaginar?"
 date: 2019-10-29
 published: true
 header:
