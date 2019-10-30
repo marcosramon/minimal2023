@@ -28,4 +28,5 @@ As perguntas e as dúvidas podem ser mais interessantes do que as respostas pron
 
 <figure style="" class="align-center">
   <img src="{{ site.url }}{{ site.baseurl }}/assets/images/maxhirshfeld.jpeg" alt="">
+  <figcaption>Foto de <a href="https://www.maxpix.com/SERIES/Looking-At-Looking/thumbs-caption">Max Hirshfeld</a></figcaption>
 </figure>
