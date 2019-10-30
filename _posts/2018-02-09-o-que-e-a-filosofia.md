@@ -4,7 +4,7 @@ excerpt: "Sobre a interpretação da filosofia de Nietzsche por Luc Ferry."
 date: 2018-02-09
 published: true
 header:
-  og_image: assets/images/maxhirshfeld.jpeg
+  og_image: assets/images/APF78-copy1.jpeg
 tags: 
   - filosofia
   - conhecimento
@@ -27,6 +27,6 @@ Assim, gostaria que você pensasse um pouco sobre esse tema inicial ("O que é a
 As perguntas e as dúvidas podem ser mais interessantes do que as respostas prontas, mas é preciso partir de algum lugar. Por isso, convido você a iniciar esse processo se perguntando sobre a origem da filosofia. A ideia é que você chegue a um ponto em que passe a fazer espontaneamente essa mesma pergunta ("o que é?") sobre outras coisas que lhe interessam. Aceita o desafio? Então, deixe o seu comentário na seção abaixo.
 
 <figure style="" class="align-center">
-  <img src="{{ site.url }}{{ site.baseurl }}/assets/images/maxhirshfeld.jpeg" alt="">
+  <img src="{{ site.url }}{{ site.baseurl }}/assets/images/APF78-copy1.jpeg" alt="">
   <figcaption>Foto de <a href="https://www.maxpix.com/SERIES/Looking-At-Looking/thumbs-caption">Max Hirshfeld</a></figcaption>
 </figure>
