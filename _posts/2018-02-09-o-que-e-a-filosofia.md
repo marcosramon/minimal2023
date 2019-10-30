@@ -1,6 +1,6 @@
 ---
 title: "O que é a filosofia?"
-excerpt: "Sobre a interpretação da filosofia de Nietzsche por Luc Ferry."
+excerpt: "A pergunta sobre o que é a filosofia é uma pergunta essencial"
 date: 2018-02-09
 published: true
 header:
