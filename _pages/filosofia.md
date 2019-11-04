@@ -8,7 +8,7 @@ header:
   overlay_filter: "0.5"
   overlay_image: /assets/images/stars.jpg
   actions:
-    - label: "Filosofia"
+    - label: "Marcos Ramon"
       url: "https://marcosramon.net/sobre"
 excerpt: ""
 intro: 
