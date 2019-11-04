@@ -28,6 +28,10 @@ feature_row:
     title: "O existencialismo e nós mesmos"
     excerpt: ""
     url: "https://marcosramon.net/blog/o-existencialismo-e-nos-mesmos/"
+  - image_path: assets/images/benjamin.jpg
+    title: "O declínio da experiência e a importância da crítica"
+    excerpt: ""
+    url: "https://marcosramon.net/blog/o-declinio-da-experiencia-e-a-importancia-da-critica/"
 ---
 
 {% include feature_row id="intro" type="center" %}
