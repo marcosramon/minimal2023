@@ -25,6 +25,10 @@ Compre um dos meus livros no site da Amazon e depois faça uma análise no [Good
 
 <a href="https://amzn.to/2XvjDlH" target="_blank">![image-left]({{ site.url }}{{ site.baseurl }}/assets/images/descompasso-div.png){: .align-left}</a> [Descompasso](https://amzn.to/2XvjDlH) - Crônicas e ensaios sobre filosofia, arte, ensino e cotidiano. Neste livro, Marcos Ramon (professor de Filosofia, escritor, podcaster) relata experiências e propõe reflexões sobre a realidade a partir do que observa e vivencia. Um convite a uma forma mais atenta de se olhar o cotidiano.
 
+## Apoie o Podcast Ficções pelo PicPay
+
+Apoiando pelo PicPay (<a href="https://picpay.me/ficcoes" target="_blank">picpay.me/ficcoes</a>) você me ajuda a continuar produzindo o [Podcast Ficções](https://marcosramon.net/ficcoes/) e recebe, por email, newsletters e episódios antecipados.
+
 ## Compre alguma coisa
 
 Se você comprar alguma coisa na [Amazon](https://www.amazon.com.br/?&_encoding=UTF8&tag=marcramo-20&linkCode=ur2&linkId=aad24eb81b50d91ca9706a1565e538a2&camp=1789&creative=9325) utilizando o [meu link de associado](https://www.amazon.com.br/?&_encoding=UTF8&tag=marcramo-20&linkCode=ur2&linkId=aad24eb81b50d91ca9706a1565e538a2&camp=1789&creative=9325), eu ganho uma pequena comissão. Eu também tenho uma lista de desejos, caso você queira comprar alguma coisa para mim. 
