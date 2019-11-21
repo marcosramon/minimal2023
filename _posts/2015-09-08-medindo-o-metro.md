@@ -3,6 +3,8 @@ title: "Medindo o metrô"
 excerpt: "Eu gosto de especular sobre coisas que não posso compreender."
 date: 2015-09-08
 published: true
+header:
+  og_image: assets/images/metroDF.jpg
 tags: 
   - cotidiano
 categories:
@@ -21,3 +23,7 @@ Ou pior: ele estava planejando um assalto ou atentado ou algo maligno assim... E
 Senti um frio na espinha, típico de que está fazendo o que não devia. Então percebi que ele ia me falar alguma coisa. *"Eu só gosto de medir"*, ele disse, com voz calma e paciente, como se tivesse percebido a minha curiosidade. 
 
 Na verdade, a explicação dele foi desestimulante, justamente porque me tirou do meu processo de imaginação/invenção. Mas eu não disse nada. Apenas dei um sorrisinho condescendente e tratei de não olhar mais pra ele. Durante o resto da viagem (faltavam duas estações ainda antes de eu descer) ficamos cada um na sua. Ele, contente, medindo a porta do metrô; e eu, entediado, sem poder especular sobre aquilo que não era pra ter resposta.
+
+<figure style="" class="align-center">
+  <img src="{{ site.url }}{{ site.baseurl }}/assets/images/metroDF.jpg" alt="">
+</figure>
