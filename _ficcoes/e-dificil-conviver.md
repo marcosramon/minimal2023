@@ -17,7 +17,7 @@ tags:
   - Cotidiano
 ---
 
-<iframe src="https://anchor.fm/podcastficcoes/embed/episodes/Medindo-o-metr-e93t53" height="102px" width="400px" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://anchor.fm/podcastficcoes/embed/episodes/difcil-conviver-e98c1g" height="102px" width="400px" frameborder="0" scrolling="no"></iframe>
 Alguém gosta de admitir sua própria misantropia?
 
 Texto: "[É difícil conviver](https://marcosramon.net/blog/e-dificil-conviver/)"
