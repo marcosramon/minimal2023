@@ -1,6 +1,6 @@
 ---
 title: "O pior e o melhor de nós"
-excerpt: "Às vezes eu sinto que nasci pra falhar."
+excerpt: "É preciso fazer esforço para conviver."
 last_modified_at: 2016-02-11T10:27:01-05:00
 date: 2016-02-11
 og_image:
