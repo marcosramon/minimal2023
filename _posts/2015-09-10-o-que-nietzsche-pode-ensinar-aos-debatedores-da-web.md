@@ -4,9 +4,12 @@ excerpt: "E se Nietzsche usasse redes sociais?"
 date: 2015-09-10
 published: true
 header:
-  og_image: assets/images/nietzsche.jpg
+  og_image: assets/images/nietzsche-superhomem.jpg
 tags: 
   - cotidiano
+  - internet
+  - tecnologia digital
+  - filosofia
 categories:
   - blog
 ---
@@ -21,10 +24,12 @@ Mas nesse mundo de "tretas" - da guerra pela guerra - acho que falta um pouco da
 
 Na sua autobiografia, *[Ecce Homo](http://www.skoob.com.br/ecce-homo-1736ed2355.html)*, Nietzsche escreveu que a sua atitude nos conflitos podia ser resumida em quatro partes:
 
-> Primeira: eu ataco somente as coisas vitoriosas; (...) Segunda: ataco somente as coisas para as quais não poderia encontrar companheiros, onde estou só, onde sou o único a comprometer-me. (...) Terceira: não ataco nunca as pessoas. (...) Quarta: eu ataco somente as coisas das quais se exclui qualquer antipatia pessoal (...)
-
-<img src="assets/images/nietzsche.jpg">
+> *Primeira: eu ataco somente as coisas vitoriosas; (...) Segunda: ataco somente as coisas para as quais não poderia encontrar companheiros, onde estou só, onde sou o único a comprometer-me. (...) Terceira: não ataco nunca as pessoas. (...) Quarta: eu ataco somente as coisas das quais se exclui qualquer antipatia pessoal (...)*
 
 Para Nietzsche, atacar as ideias de alguém era uma forma de benevolência, uma distinção, um sinal de honra e respeito pelo outro. Nietzsche não atacou Richard Wagner, por exemplo, por odiá-lo, mas porque enxergava em Wagner um modelo de cultura que precisava ser discutido e repensado. Esse ataque era, então, um sinal de reconhecimento pela sua influência, ao mesmo tempo em que era um esforço de legar para a humanidade o presente de um futuro diferente e melhor.
 
 Os blogueiros e podcasters das tretas atuais poderiam pelo menos ter esse sentido da batalha: não se luta apenas para destruir, mas sim para alcançar algo que acreditamos. Mas destruir por destruir é certamente mais divertido - e irresponsável - do que se esforçar para produzir pesquisa, conhecimento e ideias novas.
+
+<figure style="" class="align-center">
+  <img src="{{ site.url }}{{ site.baseurl }}/assets/images/nietzsche-superhomem.jpg" alt="">
+</figure>
