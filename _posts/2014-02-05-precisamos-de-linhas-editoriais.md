@@ -18,7 +18,7 @@ Recentemente ouvi um debate na instituição em que trabalho sobre a questão da
   <img src="{{ site.url }}{{ site.baseurl }}/assets/images/self-publishing2.jpg" alt="">
 </figure>
 
-###Pode surgir muita coisa ruim e incongruente por conta da falta de critério do autor?###
+##Pode surgir muita coisa ruim e incongruente por conta da falta de critério do autor?##
 
 Sim, mas isso também pode acontecer quando se tem um conselho editorial [^1]. Não temos garantia alguma de que um conselho editorial vá, de fato, analisar ou valorizar a qualidade do que é publicado por grandes editoras ou por revistas acadêmicas de prestígio. Mas essas editoras (no caso dos livros, por exemplo) investem em forte publicidade e os seus produtos acabam tendo grande atenção da crítica e, consequentemente, do público. Um exercício interessante: ir a um sebo e passar pela lista de antigos *best-sellers* de que você nunca ouviu falar. Existem muitos. E o que aconteceu nesse caso? A linha editorial falhou? Ou eles acreditavam (e nos fizeram acreditar) que selecionaram o que havia de melhor naquele momento?
 
