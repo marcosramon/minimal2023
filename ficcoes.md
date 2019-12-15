@@ -1,6 +1,7 @@
 ---
 title: Ficções
 layout: collection
+excerpt: "Um podcast sobre narrativas filosóficas. A proposta é analisar os discursos filosóficos sobre o cotidiano como sendo construções, invenções, e não verdades."
 permalink: /ficcoes/
 sort_order: forward
 collection: ficcoes
