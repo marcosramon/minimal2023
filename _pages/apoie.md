@@ -5,7 +5,26 @@ excerpt: "Me ajude a continuar produzindo"
 last_modified_at: 2019-06-04T15:15:09-04:00
 ---
 
-Se você gosta dos meus textos e podcasts e quer me ajudar a continuar produzindo, aqui seguem algumas maneiras:
+Se você gosta do que produzo e algo que eu criei é importante para você ou te inspirou de alguma forma, considere me apoiar. Quero continuar desenvolvendo conteúdo de forma independente, e sua ajuda é muito importante. Veja aqui algumas maneiras de me ajudar a continuar produzindo:
+
+## Apoie minhas produções na internet (textos, vídeos e podcast)
+
+Você pode fazer uma doação única (você escolhe o valor) ou uma assinatura mensal de R$ 15,00. Qualquer uma dessas opções já é de grande ajuda. 
+
+Fazendo uma assinatura mensal pelo PicPay (utilize o link <a href="https://picpay.me/ficcoes" target="_blank">picpay.me/ficcoes</a>) você me ajuda a continuar produzindo o [Podcast Ficções](https://marcosramon.net/ficcoes/) e recebe, por email, newsletters e episódios antecipados.
+
+Faça uma [doação única pelo PicPay](https://app.picpay.com/user/marcosramon).
+
+Faça uma [doação única pelo PagSeguro](https://pag.ae/7VyVHU82P):
+<!-- INICIO FORMULARIO BOTAO PAGSEGURO -->
+<form action="https://pagseguro.uol.com.br/checkout/v2/donation.html" method="post">
+<!-- NÃO EDITE OS COMANDOS DAS LINHAS ABAIXO -->
+<input type="hidden" name="currency" value="BRL" />
+<input type="hidden" name="receiverEmail" value="marcosramon@gmail.com" />
+<input type="hidden" name="iot" value="button" />
+<input type="image" src="https://stc.pagseguro.uol.com.br/public/img/botoes/doacoes/205x30-doar.gif" name="submit" alt="Pague com PagSeguro - é rápido, grátis e seguro!" />
+</form>
+<!-- FINAL FORMULARIO BOTAO PAGSEGURO -->
 
 ## Me siga
 
@@ -24,10 +43,6 @@ Compre um dos meus livros no site da Amazon e depois faça uma análise no [Good
 <a href="https://amzn.to/2XAkrWF" target="_blank">![image-left]({{ site.url }}{{ site.baseurl }}/assets/images/estetica-div.png){: .align-left}</a> [A estética da angústia: uma aproximação entre Schopenhauer e os Peanuts](https://amzn.to/2XAkrWF) - Este livro propõe, a partir do tema da angústia, uma aproximação entre a filosofia de Arthur Schopenhauer e os quadrinhos de Charles Schulz. Os fundamentos da angústia são apresentados de acordo com a filosofia pessimista de Schopenhauer, propondo em seguida uma relação desta filosofia com o caráter dos Peanuts (Charlie Brown, Lucy, Linus, Snoopy e Schroeder).
 
 <a href="https://amzn.to/2XvjDlH" target="_blank">![image-left]({{ site.url }}{{ site.baseurl }}/assets/images/descompasso-div.png){: .align-left}</a> [Descompasso](https://amzn.to/2XvjDlH) - Crônicas e ensaios sobre filosofia, arte, ensino e cotidiano. Neste livro, Marcos Ramon (professor de Filosofia, escritor, podcaster) relata experiências e propõe reflexões sobre a realidade a partir do que observa e vivencia. Um convite a uma forma mais atenta de se olhar o cotidiano.
-
-## Apoie o Podcast Ficções pelo PicPay
-
-Apoiando pelo PicPay (<a href="https://picpay.me/ficcoes" target="_blank">picpay.me/ficcoes</a>) você me ajuda a continuar produzindo o [Podcast Ficções](https://marcosramon.net/ficcoes/) e recebe, por email, newsletters e episódios antecipados.
 
 ## Compre alguma coisa
 
