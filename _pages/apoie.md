@@ -15,8 +15,7 @@ Fazendo uma assinatura mensal pelo PicPay (utilize o link <a href="https://picpa
 
 Faça uma [doação única pelo PicPay](https://app.picpay.com/user/marcosramon).
 
-Faça uma [doação única pelo PagSeguro](https://pag.ae/7VyVHU82P):
-<!-- INICIO FORMULARIO BOTAO PAGSEGURO -->
+Faça uma [doação única pelo PagSeguro](https://pag.ae/7VyVHU82P): <!-- INICIO FORMULARIO BOTAO PAGSEGURO -->
 <form action="https://pagseguro.uol.com.br/checkout/v2/donation.html" method="post">
 <!-- NÃO EDITE OS COMANDOS DAS LINHAS ABAIXO -->
 <input type="hidden" name="currency" value="BRL" />
