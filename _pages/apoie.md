@@ -11,19 +11,13 @@ Se você gosta do que produzo e algo que eu criei é importante para você ou te
 
 Você pode fazer uma doação única (você escolhe o valor) ou uma assinatura mensal de R$ 15,00. Qualquer uma dessas opções já é de grande ajuda. 
 
-Fazendo uma assinatura mensal pelo PicPay (utilize o link <a href="https://picpay.me/ficcoes" target="_blank">picpay.me/ficcoes</a>) você me ajuda a continuar produzindo o [Podcast Ficções](https://marcosramon.net/ficcoes/) e recebe, por email, newsletters e episódios antecipados.
+[Assinatura pelo PicPay](https://picpay.me/ficcoes){: .btn .btn--success}
 
-Faça uma [doação única pelo PicPay](https://app.picpay.com/user/marcosramon).
+*Fazendo uma assinatura mensal pelo PicPay você me ajuda a continuar produzindo o [Podcast Ficções](https://marcosramon.net/ficcoes/) e recebe, por email, newsletters e episódios antecipados.
 
-Faça uma [doação única pelo PagSeguro](https://pag.ae/7VyVHU82P): <!-- INICIO FORMULARIO BOTAO PAGSEGURO -->
-<form action="https://pagseguro.uol.com.br/checkout/v2/donation.html" method="post">
-<!-- NÃO EDITE OS COMANDOS DAS LINHAS ABAIXO -->
-<input type="hidden" name="currency" value="BRL" />
-<input type="hidden" name="receiverEmail" value="marcosramon@gmail.com" />
-<input type="hidden" name="iot" value="button" />
-<input type="image" src="https://stc.pagseguro.uol.com.br/public/img/botoes/doacoes/205x30-doar.gif" name="submit" alt="Pague com PagSeguro - é rápido, grátis e seguro!" />
-</form>
-<!-- FINAL FORMULARIO BOTAO PAGSEGURO -->
+[Doação única pelo PicPay](https://app.picpay.com/user/marcosramon){: .btn .btn--success}
+
+[Doação única pelo PagSeguro](https://pag.ae/7VyVHU82P){: .btn .btn--success}
 
 ## Me siga
 
