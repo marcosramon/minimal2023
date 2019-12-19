@@ -14,6 +14,8 @@ collection: ficcoes
 ---
 
 [![Spotify](/assets/images/spotify.png)](https://open.spotify.com/show/1smphr2Sl3kHncMYB984rc?si=Ds7GV4oNQnGxsm-bxYvasA)
+[![Google Podcasts](/assets/images/google_podcasts.png)](https://podcasts.google.com/?feed=aHR0cHM6Ly9hbmNob3IuZm0vcy9hOWRjMzQ0L3BvZGNhc3QvcnNz)
+<a href="https://podcasts.apple.com/br/podcast/fic%C3%A7%C3%B5es/id967600465?itsct=podcast_box&amp;itscg=30200" style="display: inline-block; overflow: hidden; border-radius: 13px; width: 250px; height: 83px;"><img src="https://tools.applemediaservices.com/api/badges/listen-on-apple-podcasts/badge/pt-BR?size=250x83&amp;releaseDate=1576449600" style="border-radius: 13px; width: 250px; height: 83px;"></a>
 
 [Apple](https://podcasts.apple.com/br/podcast/fic%C3%A7%C3%B5es/id967600465?mt=2) | [TuneIn](https://tunein.com/podcasts/Culture/Fices-p610099/) | [Castbox](https://castbox.fm/channel/id2095392?country=br) | [RSS](https://anchor.fm/s/a9c85b0/podcast/rss) | [Google](https://podcasts.google.com/?feed=aHR0cHM6Ly9hbmNob3IuZm0vcy9hOWM4NWIwL3BvZGNhc3QvcnNz) | [Deezer](https://www.deezer.com/br/show/427722)
 
