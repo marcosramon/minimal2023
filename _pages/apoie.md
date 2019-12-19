@@ -23,6 +23,8 @@ Você pode fazer uma doação única (você escolhe o valor) ou uma assinatura m
 
 Me siga nas redes sociais e compartilhe meus textos, vídeos e podcasts com outras pessoas.
 
+[<i class="fab fa-twitter"></i> @mrtollens](https://twitter.com/mrtollens){: .btn .btn--info}
+
 <a href="https://twitter.com/mrtollens" alt="@mrtollens" target="_blank" class="btn btn--primary"><i class="fab fa-twitter"></i> @mrtollens</a>
  
 <a href="https://www.goodreads.com/author/show/16012578.Marcos_Ramon" alt="goodreads" target="_blank" class="btn btn--primary"><i class="fab fa-goodreads-g"></i> marcosramon</a>
