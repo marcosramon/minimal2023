@@ -13,7 +13,7 @@ Você pode fazer uma doação única (você escolhe o valor) ou uma assinatura m
 
 [Assinatura pelo PicPay](https://picpay.me/ficcoes){: .btn .btn--success}
 
-*Fazendo uma assinatura mensal pelo PicPay você me ajuda a continuar produzindo o [Podcast Ficções](https://marcosramon.net/ficcoes/) e recebe, por email, newsletters e episódios antecipados.
+*Fazendo uma assinatura mensal pelo PicPay você me ajuda a continuar produzindo o [Podcast Ficções](https://marcosramon.net/ficcoes/) e recebe, por email, newsletters e episódios antecipados.*
 
 [Doação única pelo PicPay](https://app.picpay.com/user/marcosramon){: .btn .btn--success}
 
