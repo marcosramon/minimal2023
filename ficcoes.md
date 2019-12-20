@@ -7,15 +7,15 @@ sort_order: forward
 collection: ficcoes
 ---
 
-<a href="https://twitter.com/PodcastFiccoes" class="btn btn--primary"><i class="fab fa-twitter"></i> @PodcastFiccoes</a>
+<a href="https://twitter.com/PodcastFiccoes" class="btn btn--info"><i class="fab fa-twitter"></i> @PodcastFiccoes</a>
 
 <iframe src="https://anchor.fm/podcastficcoes/embed" height="102px" width="400px" frameborder="0" scrolling="no"></iframe>
 
 ---
 
-<a href="https://open.spotify.com/show/1smphr2Sl3kHncMYB984rc?si=Ds7GV4oNQnGxsm-bxYvasA"><img src="/assets/images/spotify.png"></a>
+<a href="https://open.spotify.com/show/1smphr2Sl3kHncMYB984rc?si=Ds7GV4oNQnGxsm-bxYvasA"><img src="/assets/images/spotify.png" style="border-radius: 13px; width: 125px; height: 41px;"></a>
 
-<a href="https://podcasts.google.com/?feed=aHR0cHM6Ly9hbmNob3IuZm0vcy9hOWRjMzQ0L3BvZGNhc3QvcnNz"><img src="/assets/images/google_podcasts_badge.png"></a>
+<a href="https://podcasts.google.com/?feed=aHR0cHM6Ly9hbmNob3IuZm0vcy9hOWRjMzQ0L3BvZGNhc3QvcnNz"><img src="/assets/images/google_podcasts.png" style="border-radius: 13px; width: 125px; height: 41px;"></a>
   
 <a href="https://podcasts.apple.com/br/podcast/fic%C3%A7%C3%B5es/id967600465?itsct=podcast_box&amp;itscg=30200" style="display: inline-block; overflow: hidden; border-radius: 13px; width: 125px; height: 41px;"><img src="https://tools.applemediaservices.com/api/badges/listen-on-apple-podcasts/badge/pt-BR?size=250x83&amp;releaseDate=1576449600" style="border-radius: 13px; width: 125px; height: 41px;"></a>
 
