@@ -25,7 +25,7 @@ Me siga nas redes sociais e compartilhe meus textos, vídeos e podcasts com outr
 
 [<i class="fab fa-twitter"></i> @mrtollens](https://twitter.com/mrtollens){: .btn .btn--info} 
 [<i class="fab fa-goodreads-g"></i> marcosramon](https://www.goodreads.com/author/show/16012578.Marcos_Ramon){: .btn .btn--primary} 
-[<i class="btn btn--primary"></i> Conexão Filosófica](http://youtube.com/conexaofilosofica){: .btn .btn--danger}
+[<i class="fab fa-youtube"></i> Conexão Filosófica](http://youtube.com/conexaofilosofica){: .btn .btn--danger}
 
 ## Compre um dos meus livros
 
@@ -39,6 +39,6 @@ Compre um dos meus livros no site da Amazon e depois faça uma análise no [Good
 
 Se você comprar alguma coisa na [Amazon](https://www.amazon.com.br/?&_encoding=UTF8&tag=marcramo-20&linkCode=ur2&linkId=aad24eb81b50d91ca9706a1565e538a2&camp=1789&creative=9325) utilizando o [meu link de associado](https://www.amazon.com.br/?&_encoding=UTF8&tag=marcramo-20&linkCode=ur2&linkId=aad24eb81b50d91ca9706a1565e538a2&camp=1789&creative=9325), eu ganho uma pequena comissão. Eu também tenho uma lista de desejos, caso você queira comprar alguma coisa para mim. 
 
-<a href="https://www.amazon.com.br/?&_encoding=UTF8&tag=marcramo-20&linkCode=ur2&linkId=aad24eb81b50d91ca9706a1565e538a2&camp=1789&creative=9325" onclick="ga(&quot;send&quot;,&quot;event&quot;,&quot;link&quot;,&quot;click&quot;,&quot;Shop Amazon&quot;)" class="btn btn--primary"><i class="fab fa-amazon"></i> Compre na Amazon </a> 
+<a href="https://www.amazon.com.br/?&_encoding=UTF8&tag=marcramo-20&linkCode=ur2&linkId=aad24eb81b50d91ca9706a1565e538a2&camp=1789&creative=9325" onclick="ga(&quot;send&quot;,&quot;event&quot;,&quot;link&quot;,&quot;click&quot;,&quot;Shop Amazon&quot;)" class="btn btn--warning"><i class="fab fa-amazon"></i> Compre na Amazon </a> 
 
-<a href="https://amzn.to/2DnqGW4" onclick="ga(&quot;send&quot;,&quot;event&quot;,&quot;link&quot;,&quot;click&quot;,&quot;Amazon Wish List&quot;)" class="btn btn--primary"><i class="fab fa-amazon"></i> Minha lista de desejos</a>
+<a href="https://amzn.to/2DnqGW4" onclick="ga(&quot;send&quot;,&quot;event&quot;,&quot;link&quot;,&quot;click&quot;,&quot;Amazon Wish List&quot;)" class="btn btn--warning"><i class="fab fa-amazon"></i> Minha lista de desejos</a>
