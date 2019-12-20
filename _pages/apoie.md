@@ -23,13 +23,9 @@ Você pode fazer uma doação única (você escolhe o valor) ou uma assinatura m
 
 Me siga nas redes sociais e compartilhe meus textos, vídeos e podcasts com outras pessoas.
 
-[<i class="fab fa-twitter"></i> @mrtollens](https://twitter.com/mrtollens){: .btn .btn--info}
-
-<a href="https://twitter.com/mrtollens" alt="@mrtollens" target="_blank" class="btn btn--primary"><i class="fab fa-twitter"></i> @mrtollens</a>
- 
-<a href="https://www.goodreads.com/author/show/16012578.Marcos_Ramon" alt="goodreads" target="_blank" class="btn btn--primary"><i class="fab fa-goodreads-g"></i> marcosramon</a>
-
-<a href="http://youtube.com/conexaofilosofica" alt="conexão filosófica" target="_blank" class="btn btn--primary"><i class="fab fa-youtube"></i> Conexão Filosófica</a>
+[<i class="fab fa-twitter"></i> @mrtollens](https://twitter.com/mrtollens){: .btn .btn--info} 
+[<i class="fab fa-goodreads-g"></i> marcosramon](https://www.goodreads.com/author/show/16012578.Marcos_Ramon){: .btn .btn--primary} 
+[<i class="btn btn--primary"></i> Conexão Filosófica](http://youtube.com/conexaofilosofica){: .btn .btn--danger}
 
 ## Compre um dos meus livros
 
