@@ -11,7 +11,7 @@ Se você gosta do que produzo e algo que eu criei é importante para você ou te
 
 Você pode fazer uma doação única (você escolhe o valor) ou uma assinatura mensal de R$ 15,00. Qualquer uma dessas opções já é de grande ajuda. 
 
-[<i class="fas fa-donate"></i>Assinatura pelo PicPay](https://picpay.me/ficcoes){: .btn .btn--success}
+[<i class="fas fa-donate"></i> Assinatura pelo PicPay](https://picpay.me/ficcoes){: .btn .btn--success}
 
 *Fazendo uma assinatura mensal pelo PicPay você me ajuda a continuar produzindo o [Podcast Ficções](https://marcosramon.net/ficcoes/) e recebe, por email, newsletters e episódios antecipados.*
 
