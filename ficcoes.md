@@ -9,7 +9,7 @@ collection: ficcoes
 
 <a href="https://twitter.com/PodcastFiccoes" class="btn btn--info"><i class="fab fa-twitter"></i> @PodcastFiccoes</a>
 
-<iframe src="https://anchor.fm/podcastficcoes/embed" height="102px" width="400px" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://open.spotify.com/embed-podcast/show/1smphr2Sl3kHncMYB984rc" width="100%" height="232" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
 
 ---
 
