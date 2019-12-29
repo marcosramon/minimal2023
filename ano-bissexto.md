@@ -20,4 +20,4 @@ collection: ano bissexto
 
 Um podcast por dia durante um ano inteiro (desde que seja um ano bissexto).
 
-Apoiando pelo PicPay (<a href="https://picpay.me/ficcoes" target="_blank">picpay.me/ficcoes</a>) você me ajuda a continuar produzindo o [Podcast Ficções](https://open.spotify.com/show/1smphr2Sl3kHncMYB984rc?si=Ds7GV4oNQnGxsm-bxYvasA) e recebe, por email, newsletters e episódios antecipados.
+Me ajude a continuar produzindo o podcast e outros projetos na internet: [marcosramon.net/apoie/](https://marcosramon.net/apoie/)
