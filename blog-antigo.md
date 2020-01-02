@@ -1,7 +1,7 @@
 ---
 title: Blog
 layout: posts
-permalink: /blog/
+permalink: /blog-antigo/
 author_profile: true
 ---
 
