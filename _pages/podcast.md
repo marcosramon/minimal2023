@@ -1,5 +1,5 @@
 ---
-title: "Os Podcasts que estou produzindo atualmente"
+title: "Podcasts que estou produzindo"
 permalink: /podcast/
 excerpt: "Podcasts sobre filosofia, arte, tecnologia e cotidiano"
 last_modified_at: 2019-08-06T15:15:09-04:00
