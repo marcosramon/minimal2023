@@ -9,7 +9,7 @@ Se você gosta do que produzo e algo que eu criei é importante para você ou te
 
 ## Apoie minhas produções na internet (textos, vídeos e podcast)
 
-Faça uma doação única (você escolhe o valor). Qualquer uma dessas opções já é de grande ajuda. 
+Faça uma doação única (você escolhe o valor). Qualquer colaboração já é de grande ajuda. 
 
 [<i class="fas fa-hand-holding-usd"></i> Doação única pelo PicPay](https://app.picpay.com/user/marcosramon){: .btn .btn--success}
 
