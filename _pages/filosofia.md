@@ -10,19 +10,20 @@ header:
   actions:
     - label: "Marcos Ramon"
       url: "https://marcosramon.net/sobre"
-excerpt: ""
-intro: 
-  - excerpt: 'Textos e outros materiais sobre Filosofia no Ensino Médio, produzidos por mim para as turmas do Ensino Médio do IFB/Campus Brasília.'
+excerpt: "Textos e outros materiais sobre Filosofia no Ensino Médio, produzidos por mim para as turmas do Ensino Médio do IFB/Campus Brasília."
 toc: true
 toc_label: "Lista de materiais"
 toc_icon: "cog"
 ---
 
-### Mapas mentais, slides e infográficos
+## Mapas mentais, slides e infográficos
 
-"A filosofia platônica (mapa mental)" - [Download](https://drive.google.com/file/d/1Z_IfmBf3ADEe7b-_-TnMEBOBPqZDUZKD/view?usp=sharing)
+<figure class="align-center">
+  <img src="{{ site.url }}{{ site.baseurl }}/assets/images/platao.JPG" width="500" height="600" alt="A filosofia platônica">
+  <figcaption>Faça [download em pdf](https://drive.google.com/file/d/1Z_IfmBf3ADEe7b-_-TnMEBOBPqZDUZKD/view?usp=sharing)</figcaption>
+</figure>
 
-### Textos
+## Textos
 - [O que é a filosofia?](https://medium.com/marcosramon/o-que-%C3%A9-a-filosofia-5a310ad32fac)
 - [A origem da filosofia](https://medium.com/marcosramon/a-origem-da-filosofia-6d2ffa6d017b)
 - [O existencialismo e nós mesmos](https://medium.com/marcosramon/o-existencialismo-e-n%C3%B3s-mesmos-5fe9cc46e0e9?source=collection_home---4------2-----------------------)
