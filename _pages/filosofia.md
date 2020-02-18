@@ -19,7 +19,7 @@ toc_icon: "cog"
 ## Mapas mentais, slides e infográficos
 
 <figure class="align-center">
-  <img src="{{ site.url }}{{ site.baseurl }}/assets/images/platao.JPG" width="500" height="600" alt="A filosofia platônica">
+  <img src="{{ site.url }}{{ site.baseurl }}/assets/images/platao.JPG" width="320" height="180" alt="A filosofia platônica">
   <figcaption>Faça <a href="https://drive.google.com/file/d/1Z_IfmBf3ADEe7b-_-TnMEBOBPqZDUZKD/view?usp=sharing" target="_blank">download do arquivo em pdf</a></figcaption>
 </figure>
 
