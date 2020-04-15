@@ -37,4 +37,4 @@ Se você comprar alguma coisa na [Amazon](https://www.amazon.com.br/?&_encoding=
 
 <a href="https://www.amazon.com.br/?&_encoding=UTF8&tag=marcramo-20&linkCode=ur2&linkId=aad24eb81b50d91ca9706a1565e538a2&camp=1789&creative=9325" onclick="ga(&quot;send&quot;,&quot;event&quot;,&quot;link&quot;,&quot;click&quot;,&quot;Shop Amazon&quot;)" class="btn btn--warning"><i class="fab fa-amazon"></i> Compre na Amazon </a> 
 
-<a href="https://amzn.to/2DnqGW4" onclick="ga(&quot;send&quot;,&quot;event&quot;,&quot;link&quot;,&quot;click&quot;,&quot;Amazon Wish List&quot;)" class="btn btn--warning"><i class="fab fa-amazon"></i> Minha lista de desejos</a>
+<a href="https://www.amazon.com.br/hz/wishlist/ls/37BY4FEADOM8T?ref_=wl_share" onclick="ga(&quot;send&quot;,&quot;event&quot;,&quot;link&quot;,&quot;click&quot;,&quot;Amazon Wish List&quot;)" class="btn btn--warning"><i class="fab fa-amazon"></i> Minha lista de desejos</a>
