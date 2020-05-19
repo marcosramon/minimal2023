@@ -20,9 +20,9 @@ tags:
 <iframe src="https://anchor.fm/podcastficcoes/embed/episodes/Notcias-de-algum-lugar-ee9qlo" height="102px" width="400px" frameborder="0" scrolling="no"></iframe>
 Quando as coisas mudam.
 
-Podcast Arco43: https://editoradobrasil.podbean.com/
+Podcast que participei recentemente (o episódio ainda não está disponível): [Arco43](https://editoradobrasil.podbean.com/)
 
-Meu canal no Youtube: https://www.youtube.com/ConexaoFilosofica
+Meu canal no Youtube: [Conexão Filosófica](https://www.youtube.com/ConexaoFilosofica)
 
 Livros: "[Descompasso](https://amzn.to/2XVTP3y)" e "[A Estética da Angústia: uma aproximação entre Schopenhauer e os Peanuts](https://amzn.to/2XUEj80)"
 
