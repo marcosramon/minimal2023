@@ -2,6 +2,9 @@
 main:
   - title: "Sobre"
     url: /sobre/
+  - title: "Filosofia"
+    url: https://marcosramon.net/filosofia
   - title: "Livros"
     url: /livros/
+    
     
