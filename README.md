@@ -10,7 +10,7 @@ Aqui segue o [link do meu currículo lattes](http://lattes.cnpq.br/9538072103558
 
 ## O site
 
-Aqui você encontra meus [textos](https://marcosramon.net/blog), [podcast](https://marcosramon.net/ficcoes/) e outros materiais relacionados ao meu trabalho. Escrevo e faço podcast por puro diletantismo. Leia e escute por sua conta e risco.
+Aqui você encontra meu [blog](https://marcosramon.net/blog), [textos e outros materiais sobre Filosofia no Ensino Médio](https://marcosramon.net/filosofia), [podcast](https://marcosramon.net/ficcoes/) e outras coisas relacionadas ao meu trabalho. Escrevo e faço podcast por puro diletantismo. Leia e escute por sua conta e risco.
 
 O template que utilizo nesse blog é uma versão customizada do tema [Minimal Mistakes](https://github.com/mmistakes/minimal-mistakes), criado por [Michael Rose](https://mademistakes.com/).
 
