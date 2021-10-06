@@ -1,8 +1,11 @@
 ---
-layout: post
-published: true
-categories: blog
-image: more.jpeg
+tags: 
+  - cotidiano
+  - comportamento
+  - sociedade
+categories:
+  - blog
+header: more.jpeg
 date: 2021-08-09
 published: true
 title: A beleza trágica
