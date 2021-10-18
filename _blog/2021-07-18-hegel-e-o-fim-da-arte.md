@@ -1,5 +1,4 @@
 ---
-layout: post
 published: true
 date: 2021-07-18
 tags: 
