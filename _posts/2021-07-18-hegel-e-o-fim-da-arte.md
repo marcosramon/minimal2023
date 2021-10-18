@@ -1,5 +1,4 @@
 ---
-layout: post
 published: true
 categories: aulas
 image: hegel2.jpeg
