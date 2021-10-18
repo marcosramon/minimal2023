@@ -1,5 +1,4 @@
 ---
-layout: post
 published: true
 categories: aulas
 image: pasunb1.jpg
