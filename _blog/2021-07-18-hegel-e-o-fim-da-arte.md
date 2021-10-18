@@ -1,8 +1,16 @@
 ---
 layout: post
 published: true
-categories: aulas
-image: hegel2.jpeg
+date: 2021-07-18
+tags: 
+  - filosofia
+  - história
+  - hegel
+  - arte
+categories:
+  - blog
+og_image: assets/images/hegel2.jpeg
+image: assets/images/hegel2.jpeg
 title: Hegel e o fim da arte
 excerpt: "Nesse texto apresento (de forma bem sintética) os pontos centrais da reflexão de Hegel sobre a estética"
 ---
