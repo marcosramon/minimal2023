@@ -13,6 +13,6 @@ O problema é que — em um mundo em que temos tanto acesso à informação�
 Mas nessa conta é preciso considerar que nem sempre o tesouro é verdadeiro. Tem peça falsa que brilha mais do que o ouro e resposta rápida que convence mais do que a verdade. Vivendo em um mundo em que [as pessoas se preocupam menos com os fatos e mais com os impactos que as palavras geram no contexto social](https://www.nexojornal.com.br/expresso/2016/11/16/O-que-%C3%A9-%E2%80%98p%C3%B3s-verdade%E2%80%99-a-palavra-do-ano-segundo-a-Universidade-de-Oxford), devemos todos nos tornar vigilantes e defensores da busca lenta, enfadonha e demorada; como piratas que navegam em barcos ruins, e ainda assim seguem com esperança.
 
 <img src="/assets/images/rogue.jpeg">
-<small>Grafite do artista <a href="https://www.facebook.com/R0GUE0NER/">Rogue-one</a></small>
+<figcaption>Grafite do artista <a href="https://www.facebook.com/R0GUE0NER/">Rogue-one</a></figcaption>
 
 [^1]: Por isso a filosofia de [Kant](https://g.co/kgs/SGS6yq), que afirma que não conhecemos tudo, pode ainda assim ser estimulante. Não precisamos saber todas as coisas, nem descobrir o mundo como ele realmente é. O prazer pelo conhecimento continua mesmo com nossas limitações. Na verdade, é ao saber as limitações que temos que a busca pelo conhecimento se torna mais necessária.
