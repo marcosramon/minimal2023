@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Pagar para publicar
 categories: blog
 excerpt: "Hoje vi que a Physis: Revista de Saúde Coletiva, da UERJ, vai começar a cobrar R$ 800,00 para publicar artigos aprovados. Não é necessário gastar nada para a submissão, mas os artigos efetivamente aceitos só serão publicados com o pagamento da taxa."
