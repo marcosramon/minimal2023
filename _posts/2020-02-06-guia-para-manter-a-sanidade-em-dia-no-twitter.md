@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Guia para manter a sanidade em dia no Twitter
 excerpt: "Parece desnecessário dizer qualquer coisa nessa linha. Afinal, as redes sociais são intuitivas e simples de usar. Mas é aí que está o problema, pois ficamos nas mãos do algoritmo e de comportamentos que podem ser nocivos ao extremo."
 categories: blog
