@@ -22,9 +22,12 @@ A relação amorosa não se encontra pertencimento cego, no sentido do outro que
 
 E aqui, nesse exemplo, acho que a compreensão de Marx se junta com a de Hegel, ainda que por um caminho bem distinto. No *Capital* Marx escreveu que “em Hegel, a dialética está na cabeça. É preciso virá-la de pernas para o ar, para descobrir o cerne racional no envoltório místico”. Mas o que a dialética de Hegel tem em comum com a de Marx é a crença, quase inabalável, no curso do progresso, na ideia de que a história segue o seu caminho e atropela tudo e todos para se fazer realidade. Por isso *o real é o racional*, como escreveu Hegel. Conhecemos a realidade por meio de nossa presença no mundo, e a nossa forma de ver o mundo é uma forma dialética. Isso não quer dizer que a dialética é a linguagem do universo, mas sim que a nossa capacidade racional nos permite entender a realidade a partir da relação entre os opostos. E isso vale tanto para o amor quanto para as relações de trabalho.
 
+---
+<i>Esse texto foi escrito para a minha participação no [8º Colóquio sobre a Pesquisa em EPT](https://www.even3.com.br/ccpep/), que aconteceu em 27 de Novembro de 2020.</i>
+---
+
 [^1]: Como quando afirma que “não podemos banhar duas vezes no mesmo rio”.
 
 [^2]: *In*: Hegel, preleções de 1830. In: HEGEL. A Razão na História. Lisboa: Edições 70, 2013.
 
-Esse texto foi escrito para a minha participação no [8º Colóquio sobre a Pesquisa em EPT](https://www.even3.com.br/ccpep/), que aconteceu em 27 de Novembro de 2020.
-{: .message }
+
