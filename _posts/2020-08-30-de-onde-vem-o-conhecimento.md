@@ -1,5 +1,4 @@
 ---
-layout: post
 published: true
 categories: blog
 image: sveta.jpeg
