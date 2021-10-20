@@ -1,6 +1,5 @@
 ---
 title: Marx e as diferentes faces da dialética
-layout: post
 published: true
 categories: blog
 image: dialetica.png
