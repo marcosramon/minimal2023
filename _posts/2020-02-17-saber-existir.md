@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Saber existir
 image: botas.jpeg
 categories: blog
