@@ -15,6 +15,6 @@ Por mais que pareça estranho esse tipo de desapreço pelo racional, especialmen
 Não acho que a lógica é um problema. Mas concordo que devemos ponderar sobre sua utilização, pensando especialmente sobre o fato de que, muitas vezes, a ausência de argumentos sistematizados pode trazer benefícios evidentes (e a arte é o melhor exemplo disso). Por outro lado, vale ponderar também sobre o fato de que a lógica por si só não é sinal de verdade. Afinal, um bom argumento é aquele que tem a forma correta, não o conteúdo. E quem estuda lógica (olha só a utilidade dela aqui) geralmente consegue perceber essa diferença. 
 
 <img src="/assets/images/eyes.gif">
-<small>Colleen Moore, no filme Ella Cinders (1926)</small>
+<figcaption>Colleen Moore, no filme Ella Cinders (1926)</figcaption>
 
 [^1]: Aliás, Nietzsche foi um dos autores que mais escreveu com a paixão no lugar da razão.
