@@ -1,5 +1,4 @@
 ---
-layout: post
 title: A guerra na tevê
 image: guerra.jpeg
 excerpt: "Quando eu criança lembro de acordar um dia e ver todo mundo grudado na televisão. E depois, pra qualquer lugar que fôssemos, víamos a mesma cena: pessoas vendo a guerra na tevê."
