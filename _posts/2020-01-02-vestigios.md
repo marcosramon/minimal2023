@@ -1,5 +1,4 @@
 ---
-layout: post
 categories: blog
 title: Vestígios
 image: vestigios.jpeg
