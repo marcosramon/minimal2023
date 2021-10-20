@@ -1,6 +1,5 @@
 ---
-layout: post
-published: false
+published: true
 categories: aulas
 image: 
 title: Apostila Filosofia 2º ano (parte 2)
