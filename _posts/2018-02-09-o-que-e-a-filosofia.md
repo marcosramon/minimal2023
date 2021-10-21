@@ -9,7 +9,7 @@ tags:
   - filosofia
   - conhecimento
 categories:
-  - blog
+  - aulas
 ---
 
 A pergunta sobre o que é a filosofia é uma pergunta essencial, principalmente se considerarmos o fato de que não estamos habituados a nos perguntar o que as coisas são.
