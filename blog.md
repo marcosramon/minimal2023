@@ -1,6 +1,7 @@
 ---
 title: Blog
-layout: posts
+layout: category
+taxonomy: blog
 permalink: /blog/
 author_profile: true
 ---
