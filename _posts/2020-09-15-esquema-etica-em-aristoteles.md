@@ -1,6 +1,6 @@
 ---
 published: true
-categories: blog, aulas
+categories: aulas
 image: eticaaristoteles.jpg
 title: Esquema sobre a Ética em Aristóteles
 excerpt: "Nesse esquema eu apresento as características centrais da reflexão sobre a Ética na filosofia de Aristóteles a partir de um mapa mental que une as discussões presentes em Ética a Nicômaco e na Política."
