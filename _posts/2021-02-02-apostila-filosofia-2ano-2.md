@@ -64,7 +64,7 @@ Por isso, não existe conhecimento fora da realidade. Para o criticismo tudo o q
 
 Outros animais possuem mais audição, mais olfato ou mais visão que nós (e nós possuímos mais percepções que alguns dos outros animais). Logo, se não percebemos o mundo do mesmo jeito que esses outros seres, como poderíamos dizer que o mundo é do jeito que vemos, sentimos ou ouvimos? O mundo que conhecemos é uma representação, mas não o mundo em si. E é só essa representação que podemos conhecer. Portanto, não podemos conhecer tudo, como queriam os dogmáticos, mas também não estamos privados do conhecimento, como defendiam os céticos. Podemos conhecer, mas no limite da nossa sensibilidade e de nossa capacidade intelectual.
 
-<iframe width="590" height="475" src="https://edpuzzle.com/embed/media/5f5c21117110da3edb9b911d" frameborder="0" allowfullscreen></iframe>
+<iframe width="640" height="360" src="https://edpuzzle.com/embed/media/5f5c21117110da3edb9b911d" frameborder="0" allowfullscreen></iframe>
 
 ---
 
@@ -225,7 +225,7 @@ Exemplos:
 
 Nesse próximo vídeo eu faço um resumo desse tópico abordado aqui:
 
-<iframe width="590" height="475" src="https://edpuzzle.com/embed/media/5f8dd9beb129c640f7e5474e" frameborder="0" allowfullscreen></iframe>
+<iframe width="640" height="360" src="https://edpuzzle.com/embed/media/5f8dd9beb129c640f7e5474e" frameborder="0" allowfullscreen></iframe>
 
 ---
 
