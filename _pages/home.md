@@ -1,5 +1,5 @@
 ---
-title: ""
+title: "Marcos Ramon"
 layout: splash
 permalink: /
 date: 2019-08-28T11:48:41-04:00
@@ -10,7 +10,7 @@ header:
   actions:
     - label: "Sobre"
       url: "https://marcosramon.net/sobre"
-excerpt: ""
+excerpt: "Sou professor de filosofia e pesquisador nas áreas de estética e cibercultura. Meus temas de interesse: tecnologia digital, arte, filosofia e cultura visual."
 image: gephi.png
 intro: 
   - excerpt: 'Sou professor de filosofia e pesquisador nas áreas de estética e cibercultura. Meus temas de interesse: tecnologia digital, arte, filosofia e cultura visual.'
