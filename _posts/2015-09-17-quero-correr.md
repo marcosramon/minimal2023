@@ -1,10 +1,9 @@
 ---
-layout: post
 date: 2015-09-17
 title: "Quero correr"
 description: "Acordei querendo correr."
 published: true
-categories: [cotidiano]
+categories: blog
 image: https://db.tt/kquffcgi
 author: Marcos Ramon
 header-img: "/img/abstrato4.jpg"
