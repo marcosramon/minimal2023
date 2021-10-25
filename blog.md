@@ -3,6 +3,7 @@ title: Blog
 layout: category
 taxonomy: blog
 permalink: /blog/
+image: gato-sp.png
 author_profile: true
 ---
 
