@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Conectados
 description: "Eu tenho uma desconfiança. Mas uma desconfiança boa, não se assuste."
 published: true
