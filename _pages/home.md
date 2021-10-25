@@ -11,6 +11,7 @@ header:
     - label: "Sobre"
       url: "https://marcosramon.net/sobre"
 excerpt: ""
+image: gephi.png
 intro: 
   - excerpt: 'Sou professor de filosofia e pesquisador nas áreas de estética e cibercultura. Meus temas de interesse: tecnologia digital, arte, filosofia e cultura visual.'
 feature_row:
