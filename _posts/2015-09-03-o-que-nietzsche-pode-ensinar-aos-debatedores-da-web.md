@@ -1,10 +1,9 @@
 ---
-layout: post
 date: 2015-09-03
 title: "O que Nietzsche pode ensinar aos debatedores da web"
 description: "Nos dias de hoje, e especialmente na internet, vemos mais gente brigando, reclamando e discutindo do que propondo soluções ou ajudando a resolver problemas."
 published: true
-categories: [tecnologia]
+categories: blog
 author: Marcos Ramon
 header-img: "/img/sea.jpg"
 ---
