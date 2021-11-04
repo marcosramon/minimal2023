@@ -18,9 +18,16 @@ toc_icon: "cog"
 
 ## Mapas mentais, slides e infográficos
 
+### A filosofia platônica
 <figure class="align-center">
   <img src="{{ site.url }}{{ site.baseurl }}/assets/images/platao.JPG" width="320" height="180" alt="A filosofia platônica">
   <figcaption>Faça <a href="https://drive.google.com/file/d/1Z_IfmBf3ADEe7b-_-TnMEBOBPqZDUZKD/view?usp=sharing" target="_blank">download do arquivo em pdf</a></figcaption>
+</figure>
+
+### Sobre a violência (Hannah Arendt)
+<figure class="align-center">
+  <img src="{{ site.url }}{{ site.baseurl }}/assets/images/violencia.jpg" width="320" height="180" alt="Sobre a violência (Hannah Arendt)">
+  <figcaption>Faça <a href="https://drive.google.com/file/d/1VMYu5hbyob_TgEx6OqvPXCoaaV-AePrA/view?usp=sharing" target="_blank">download do arquivo em pdf</a></figcaption>
 </figure>
 
 ## Textos
