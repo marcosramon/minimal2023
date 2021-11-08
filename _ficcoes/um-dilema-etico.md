@@ -9,10 +9,7 @@ tags:
   - Ética
   - Moral
   - Comportamento
-image: 
-  path: /assets/images/ficcoes.jpg
-  thumbnail: assets/images/ficcoes400x200.jpg
-  caption: "Podcast Ficções"
+image: ficcoes.jpg
 ---
 
 <iframe src="https://anchor.fm/podcastficcoes/embed/episodes/Um-dilema-tico-e455ad" height="102px" width="400px" frameborder="0" scrolling="no"></iframe>
