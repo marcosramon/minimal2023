@@ -13,6 +13,7 @@ date: 2019-06-03
 collection: ficcoes
 categories:
   - podcast
+  - ficcoes
 tags: 
   - Podcast
   - Cotidiano
