@@ -13,6 +13,7 @@ date: 2019-10-29
 collection: ficcoes
 categories:
   - podcast
+  - ficcoes
 tags: 
   - Filosofia
   - Reflexão
