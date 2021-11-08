@@ -6,14 +6,12 @@ collection: ficcoes
 published: true
 categories:
   - podcast
+  - ficcoes
 tags: 
   - Tecnologia
   - WhatsApp
   - Comunicação
-image: 
-  path: /assets/images/ficcoes.jpg
-  thumbnail: assets/images/ficcoes400x200.jpg
-  caption: "Podcast Ficções"
+image: ficcoes.jpg
 ---
 
 <iframe src="https://anchor.fm/podcastficcoes/embed/episodes/Todo-mundo-usa-WhatsApp-e3ubnh" height="102px" width="400px" frameborder="0" scrolling="no"></iframe>
