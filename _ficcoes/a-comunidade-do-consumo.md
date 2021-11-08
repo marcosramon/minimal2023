@@ -5,14 +5,12 @@ date: 2019-04-29
 collection: ficcoes
 categories:
   - podcast
+  - ficcoes
 tags: 
   - Yuval Noah Harari
   - Consumo
   - História
-image: 
-  path: /assets/images/ficcoes.jpg
-  thumbnail: assets/images/ficcoes400x200.jpg
-  caption: "Podcast Ficções"
+image: ficcoes.jpg
 ---
 
 <iframe src="https://anchor.fm/podcastficcoes/embed/episodes/A-comunidade-do-consumo-e3so0j" height="102px" width="400px" frameborder="0" scrolling="no"></iframe>
