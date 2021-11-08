@@ -13,6 +13,7 @@ date: 2019-06-07
 collection: ficcoes
 categories:
   - podcast
+  - ficcoes
 tags: 
   - Schopenhauer
   - Conhecimento
