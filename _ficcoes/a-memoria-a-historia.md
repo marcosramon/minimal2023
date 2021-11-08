@@ -6,15 +6,13 @@ date: 2019-04-21
 collection: ficcoes
 categories:
   - podcast
+  - ficcoes
 tags: 
   - filosofia
   - memória
   - história
   - Paul Ricoeur
-image: 
-  path: /assets/images/ficcoes.jpg
-  thumbnail: assets/images/ficcoes400x200.jpg
-  caption: "Podcast Ficções"
+image: ficcoes.jpg
 ---
 
 <iframe src="https://anchor.fm/podcastficcoes/embed/episodes/A-memria--a-histria-e3pt67/a-adi78v" height="102px" width="400px" frameborder="0" scrolling="no"></iframe>
