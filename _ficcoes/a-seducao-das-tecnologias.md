@@ -13,6 +13,7 @@ date: 2019-06-09
 collection: ficcoes
 categories:
   - podcast
+  - ficcoes
 tags: 
   - Tecnologia
   - Sociedade
