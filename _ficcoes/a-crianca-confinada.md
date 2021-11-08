@@ -13,6 +13,7 @@ date: 2019-11-12
 collection: ficcoes
 categories:
   - podcast
+  - ficcoes
 tags: 
   - Filosofia
   - Tecnologia
