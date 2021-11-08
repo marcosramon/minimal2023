@@ -5,6 +5,7 @@ date: 2019-05-25
 collection: ficcoes
 categories:
   - podcast
+  - ficcoes
 tags: 
   - Ética
   - Moral
