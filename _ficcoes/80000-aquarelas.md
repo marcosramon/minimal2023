@@ -6,14 +6,12 @@ collection: ficcoes
 published: true
 categories:
   - podcast
+  - ficcoes
 tags: 
   - Aquarela
   - Arte
   - Ilustração
-image: 
-  path: /assets/images/ficcoes.jpg
-  thumbnail: assets/images/ficcoes400x200.jpg
-  caption: "Podcast Ficções"
+image: ficcoes.jpg
 ---
 
 <iframe src="https://anchor.fm/podcastficcoes/embed/episodes/80-000-aquarelas-e3vbbr" height="102px" width="400px" frameborder="0" scrolling="no"></iframe>
