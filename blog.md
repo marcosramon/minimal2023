@@ -13,3 +13,5 @@ Escrevo sobre filosofia, arte, tecnologia, educação e cibercultura. Você pode
 
 Se quiser receber atualizações dos meus textos por email, se inscreva na <a href="https://marcosramon.substack.com">newsletter</a>.
 
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5950333929392132"
+     crossorigin="anonymous"></script>
