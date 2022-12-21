@@ -2,6 +2,7 @@
 title: Sócrates e as redes sociais
 layout: post
 image:
+published: true
 categories: blog
 excerpt: Todo mundo é esperto e sabe tanta coisa na internet, que a sensação é de encontrar um Sócrates em cada post do Twitter ou comentário no YouTube. Será que isso é bom?
 tags: [Sócrates, Filosofia, Redes sociais, comportamento, sociedade]
