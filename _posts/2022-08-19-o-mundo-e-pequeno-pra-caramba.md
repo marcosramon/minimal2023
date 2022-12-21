@@ -8,6 +8,7 @@ excerpt: A maneira como usamos a tecnologia transforma também o jeito como enca
 title: O mundo é pequeno pra caramba
 image: "/uploads/selfie-hole.jpg"
 date: 2022-08-19 21:32:00 +0000
+published: true
 ---
 Estou planejando uma viagem e, também por conta disso, comecei a seguir alguns perfis no Instagram relacionados ao tema (ou de pessoas que, nesse momento, estão documentando suas viagens). Como não poderia deixar de ser, comecei a ser bombardeado com conteúdo de viagem do tipo mais diverso: venda de malas,  seguros, tickets para passeios, perfis focados em "experiência" de turismo etc.
 
