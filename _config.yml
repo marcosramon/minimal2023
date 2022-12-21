@@ -20,8 +20,8 @@ title                    : "Marcos Ramon"
 title_separator          : "-"
 name                     : "Marcos Ramon"
 description              : "Filosofia, arte e cotidiano"
-url                      : "https://marcosramon.net"
-baseurl                  : 
+url                      : "https://marcosramon.github.io"
+baseurl                  : "/minimal"
 repository               : 
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
