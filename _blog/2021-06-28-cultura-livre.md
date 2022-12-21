@@ -1,5 +1,5 @@
 ---
-published: true
+published: false
 categories: blog
 image: money.GIF
 title: Cultura livre
