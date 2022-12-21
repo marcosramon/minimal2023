@@ -7,7 +7,7 @@ categories:
   - blog
 image: more.jpeg
 date: 2021-08-09
-published: true
+published: false
 title: A beleza trágica
 excerpt: "Para Nietzsche, Apolo representa o deus da beleza, da serenidade, do controle. Porque perceber a beleza é controlar, em certa medida, a própria vontade."
 ---
