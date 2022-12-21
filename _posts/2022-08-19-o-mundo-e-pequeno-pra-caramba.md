@@ -2,7 +2,8 @@
 tags:
 - Viagem
 - Cotidiano
-categories: blog
+categories:
+  - blog
 excerpt: A maneira como usamos a tecnologia transforma também o jeito como encaramos o turismo.
 title: O mundo é pequeno pra caramba
 image: "/uploads/selfie-hole.jpg"
