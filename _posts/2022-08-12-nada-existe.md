@@ -1,6 +1,7 @@
 ---
 layout: post
-categories: blog
+categories:
+  - blog
 excerpt: Quando observamos a realidade, acabamos aceitando que tudo é mais simples
   do que parece.
 title: Nada existe
