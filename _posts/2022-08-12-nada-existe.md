@@ -7,6 +7,7 @@ excerpt: Quando observamos a realidade, acabamos aceitando que tudo é mais simp
 title: Nada existe
 image: "/uploads/20220808_080433-1.jpg"
 date: 2022-08-11 03:00:00 +0000
+published: true
 tags: []
 
 ---
