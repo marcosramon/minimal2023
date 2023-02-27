@@ -1,15 +1,14 @@
 ---
-title: Reimaginando o tempo
-date: 2022-12-22 00:00:00 Z
-categories:
-- blog
 tags:
 - Tempo
 - Vida
-layout: post
-excerpt: A maneira como usamos a tecnologia transforma também o jeito como encaramos
-  o turismo.
-image: ''
+categories:
+  - blog
+excerpt: A força do tempo sobre a gente faz com que, muitas vezes, esqueçamos que as coisas se dão em um processo cumulativo.
+title: Reimaginando o tempo
+image: "/uploads/selfie-hole.jpg"
+date: 2022-12-22 21:32:00 +0000
+published: true
 ---
 
 A força do tempo sobre a gente faz com que, muitas vezes, esqueçamos que as coisas se dão em um processo cumulativo. Nada acontece de um momento para outro, mas cada coisa segue um ritmo de transformações que se finaliza em um ponto que consideramos como o <i>final</i>.
