@@ -1,7 +1,7 @@
 ---
 title: "O mesmo, pra sempre"
 excerpt: "Não importa o quanto eu ache que eu mudei."
-date: 2023-02-24
+date: 2023-02-24 21:32:00 +0000
 published: true
 og_image: /assets/images/pensar1.jpg
 tags: 
