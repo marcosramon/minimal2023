@@ -1,6 +1,5 @@
 ---
 title: Sócrates e as redes sociais
-layout: post
 image:
 published: true
 categories: blog
