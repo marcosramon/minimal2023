@@ -1,6 +1,5 @@
 ---
 title: Trabalho, antes de tudo
-layout: post
 image:
 categories: blog
 excerpt: Trabalhamos porque o trabalho nos define. Mas quem consegue ser realmente apaixonado por aquilo que faz?
