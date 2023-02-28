@@ -6,7 +6,7 @@ categories:
   - blog
 excerpt: A maneira como usamos a tecnologia transforma também o jeito como encaramos o turismo.
 title: O mundo é pequeno pra caramba
-image: "/uploads/selfie-hole.jpg"
+image: /assets/images/selfiehole.jpg
 date: 2022-08-19 21:32:00 +0000
 published: true
 ---
@@ -20,6 +20,6 @@ Pesquisando para a viagem que comentei, me dei conta de que esse processo de pre
 
 Pensando sobre o agora, sinto que ainda me resta um pouco de curiosidade com a experiência real, com a presença _in loco_, com a sensação de despertencimento tão característica de quem sai em viagem. O cuidado (de agora, de sempre) é não perder isso de vista — pra me permitir ainda olhar as coisas com um pouquinho de surpresa.
 
-![](/uploads/selfie-hole.jpg)
+![](/assets/images/selfiehole.jpg)
 
 [^1]: Não que seja barato viajar hoje. Mas, diferentemente de outras épocas, é algo agora viável para um número bem grande de pessoas.
