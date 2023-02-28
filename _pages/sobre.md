@@ -3,6 +3,7 @@ permalink: /sobre/
 title: "Sobre"
 excerpt: "Marcos Ramon | Professor, pesquisador e músico"
 last_modified_at: 2023-02-28T15:15:09-04:00
+image: tolis2023.jpg
 toc: false
 ---
 
