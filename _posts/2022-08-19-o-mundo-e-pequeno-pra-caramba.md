@@ -6,7 +6,7 @@ categories:
   - blog
 excerpt: A maneira como usamos a tecnologia transforma também o jeito como encaramos o turismo.
 title: O mundo é pequeno pra caramba
-image: /assets/images/selfiehole.jpg
+image: selfiehole.jpg
 date: 2022-08-19 21:32:00 +0000
 published: true
 ---
