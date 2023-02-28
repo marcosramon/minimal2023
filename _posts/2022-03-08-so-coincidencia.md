@@ -2,7 +2,6 @@
 title: Só coincidência
 excerpt: "Eu gostaria de acreditar que a minha falta de vontade para fazer as coisas que eu preciso e quero fazer, é apenas uma circunstância."
 image: baloon.jpeg
-layout: post
 published: true
 categories: blog
 tags: [cotidiano, reflexão]
