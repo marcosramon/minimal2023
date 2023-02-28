@@ -1,11 +1,9 @@
 ---
-layout: post
 categories:
   - blog
 excerpt: Quando observamos a realidade, acabamos aceitando que tudo é mais simples
   do que parece.
 title: Nada existe
-image: 20220808_080433-1.jpg
 date: 2022-08-11 03:00:00 +0000
 published: true
 ---
