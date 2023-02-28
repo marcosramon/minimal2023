@@ -2,7 +2,6 @@
 published: true
 title: A presunção moral
 categories: blog
-layout: post
 excerpt: Todo mundo acha que é melhor e mais correto do que os outros. Mas, no final, somos todos parte do mesmo problema.
 ---
 
