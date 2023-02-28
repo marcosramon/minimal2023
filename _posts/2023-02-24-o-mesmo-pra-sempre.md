@@ -2,15 +2,14 @@
 title: O mesmo, pra sempre
 excerpt: Não importa o quanto eu ache que eu mudei.
 date: 2023-02-24 21:32:00 +0000
-published: true
-og_image: /assets/images/pensar1.jpg
+image: pensar1.jpg
 tags: 
   - reflexão
   - filosofia
   - realidade
 categories:
   - blog
-layout: post
+published: true
 ---
 
 Não importa o quanto eu ache que mudei. No final, continuo sempre pensando basicamente as mesmas coisas, defendendo as mesmas ideias, querendo corroborar com os mesmos valores e fingindo que sofri grandes mudanças ao longo da vida.
