@@ -6,7 +6,7 @@ last_modified_at: 2019-08-29T15:15:09-04:00
 toc: false
 ---
 
-<img src="/assets/images/tolis2023.jpg">
+<img src="/assets/images/tolis2023.jpg" width="300" height="300">
 
 ## O autor
 
