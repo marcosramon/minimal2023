@@ -20,6 +20,6 @@ Pesquisando para a viagem que comentei, me dei conta de que esse processo de pre
 
 Pensando sobre o agora, sinto que ainda me resta um pouco de curiosidade com a experiência real, com a presença _in loco_, com a sensação de despertencimento tão característica de quem sai em viagem. O cuidado (de agora, de sempre) é não perder isso de vista — pra me permitir ainda olhar as coisas com um pouquinho de surpresa.
 
-![](/assets/images/selfiehole.jpg)
+<img src="/assets/images/selfiehole.jpg">
 
 [^1]: Não que seja barato viajar hoje. Mas, diferentemente de outras épocas, é algo agora viável para um número bem grande de pessoas.
