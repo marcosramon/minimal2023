@@ -5,11 +5,9 @@ categories:
 excerpt: Quando observamos a realidade, acabamos aceitando que tudo é mais simples
   do que parece.
 title: Nada existe
-image: "/uploads/20220808_080433-1.jpg"
+image: 20220808_080433-1.jpg
 date: 2022-08-11 03:00:00 +0000
 published: true
-tags: []
-
 ---
 Inventamos ciclos para lidar melhor com o fato de que a realidade é caótica e imprevisível. Como somos obcecados por ordem, queremos acreditar que a vida cotidiana deveria seguir determinados propósitos ou caminhos.
 
